@@ -1,0 +1,906 @@
+rank_sales;game_name;publisher;developer;platform;platform_name;global_sales;game_genre;meta_critic_score;meta_user_score;release_day;release_month;release_year
+8;Grand Theft Auto V;Rockstar Games;Rockstar North;PS4;PlayStation 4;19390000.0;Action;97;8.3;18;11;2014
+20;Grand Theft Auto V;Rockstar Games;Rockstar North;XOne;PlayStation 4;8720000.0;Action;97;8.3;18;11;2014
+8;Grand Theft Auto V;Rockstar Games;Rockstar North;PS4;Xbox One;19390000.0;Action;97;7.8;18;11;2014
+20;Grand Theft Auto V;Rockstar Games;Rockstar North;XOne;Xbox One;8720000.0;Action;97;7.8;18;11;2014
+44;Grand Theft Auto III;Rockstar Games;Rockstar North;All;PlayStation 2;;Action-Adventure;97;8.4;22;10;2001
+15;Grand Theft Auto IV;Rockstar Games;Rockstar North;X360;Xbox 360;11090000.0;Action;98;7.9;29;4;2008
+16;Grand Theft Auto IV;Rockstar Games;Rockstar North;PS3;Xbox 360;10570000.0;Action;98;7.9;29;4;2008
+15;Grand Theft Auto IV;Rockstar Games;Rockstar North;X360;PlayStation 3;11090000.0;Action;98;7.8;29;4;2008
+16;Grand Theft Auto IV;Rockstar Games;Rockstar North;PS3;PlayStation 3;10570000.0;Action;98;7.8;29;4;2008
+81;Grand Theft Auto: Liberty City Stories;Rockstar Games;Rockstar Leeds/North;All;PSP		;;Action-Adventure;88;7.8;24;10;2005
+27;Uncharted 2: Among Thieves;Sony Computer Entertainment;Naughty Dog;PS3;PlayStation 3;6740000.0;Action;96;8.8;13;10;2009
+29;Red Dead Redemption;Rockstar Games;Rockstar San Diego;X360;PlayStation 3;6500000.0;Action;95;8.9;18;5;2010
+43;Red Dead Redemption;Rockstar Games;Rockstar San Diego;All;PlayStation 3;;Action-Adventure;95;8.9;18;5;2010
+29;Red Dead Redemption;Rockstar Games;Rockstar San Diego;X360;Xbox 360;6500000.0;Action;95;9.0;18;5;2010
+43;Red Dead Redemption;Rockstar Games;Rockstar San Diego;All;Xbox 360;;Action-Adventure;95;9.0;18;5;2010
+35;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;Wii;Wii		;5660000.0;Action;80;8.7;6;11;2007
+50;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;DS;Wii		;4770000.0;Action;80;8.7;6;11;2007
+132;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;X360;Wii		;2590000.0;Action;80;8.7;6;11;2007
+152;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;PS3;Wii		;2310000.0;Action;80;8.7;6;11;2007
+35;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;Wii;DS		;5660000.0;Action;80;6.5;6;11;2007
+50;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;DS;DS		;4770000.0;Action;80;6.5;6;11;2007
+132;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;X360;DS		;2590000.0;Action;80;6.5;6;11;2007
+152;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;PS3;DS		;2310000.0;Action;80;6.5;6;11;2007
+35;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;Wii;Xbox 360;5660000.0;Action;80;8.1;6;11;2007
+50;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;DS;Xbox 360;4770000.0;Action;80;8.1;6;11;2007
+132;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;X360;Xbox 360;2590000.0;Action;80;8.1;6;11;2007
+152;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;PS3;Xbox 360;2310000.0;Action;80;8.1;6;11;2007
+35;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;Wii;PlayStation 3;5660000.0;Action;80;7.3;6;11;2007
+50;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;DS;PlayStation 3;4770000.0;Action;80;7.3;6;11;2007
+132;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;X360;PlayStation 3;2590000.0;Action;80;7.3;6;11;2007
+152;LEGO Star Wars: The Complete Saga;LucasArts;Traveller's Tales;PS3;PlayStation 3;2310000.0;Action;80;7.3;6;11;2007
+36;Assassin's Creed II;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;5570000.0;Action;91;8.7;17;11;2009
+40;Assassin's Creed II;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;5300000.0;Action;91;8.7;17;11;2009
+73;Assassin's Creed II;Ubisoft;Ubisoft Montreal;All;PlayStation 3;;Action-Adventure;91;8.7;17;11;2009
+36;Assassin's Creed II;Ubisoft;Ubisoft Montreal;PS3;Xbox 360;5570000.0;Action;90;8.8;17;11;2009
+40;Assassin's Creed II;Ubisoft;Ubisoft Montreal;X360;Xbox 360;5300000.0;Action;90;8.8;17;11;2009
+73;Assassin's Creed II;Ubisoft;Ubisoft Montreal;All;Xbox 360;;Action-Adventure;90;8.8;17;11;2009
+37;Assassin's Creed;Ubisoft;Ubisoft Montreal;X360;Xbox 360;5550000.0;Action;81;7.6;13;11;2007
+48;Assassin's Creed;Ubisoft;Ubisoft Montreal;PS3;Xbox 360;4830000.0;Action;81;7.6;13;11;2007
+5;Assassin's Creed;Ubisoft;Ubisoft;Series;Xbox 360;;Action-Adventure;81;7.6;13;11;2007
+79;Assassin's Creed;Ubisoft;Ubisoft Montreal;All;Xbox 360;;Action-Adventure;81;7.6;13;11;2007
+37;Assassin's Creed;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;5550000.0;Action;81;7.3;13;11;2007
+48;Assassin's Creed;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;4830000.0;Action;81;7.3;13;11;2007
+5;Assassin's Creed;Ubisoft;Ubisoft;Series;PlayStation 3;;Action-Adventure;81;7.3;13;11;2007
+79;Assassin's Creed;Ubisoft;Ubisoft Montreal;All;PlayStation 3;;Action-Adventure;81;7.3;13;11;2007
+38;Batman: Arkham City;Warner Bros. Interactive;Rocksteady Studios;PS3;PlayStation 3;5540000.0;Action;96;8.8;18;10;2011
+51;Batman: Arkham City;Warner Bros. Interactive;Rocksteady Studios;X360;PlayStation 3;4750000.0;Action;96;8.8;18;10;2011
+51;Batman: Arkham City;Warner Bros. Interactive Entertainment;Rocksteady Studios;All;PlayStation 3;;Action-Adventure;96;8.8;18;10;2011
+38;Batman: Arkham City;Warner Bros. Interactive;Rocksteady Studios;PS3;Xbox 360;5540000.0;Action;94;8.8;18;10;2011
+51;Batman: Arkham City;Warner Bros. Interactive;Rocksteady Studios;X360;Xbox 360;4750000.0;Action;94;8.8;18;10;2011
+51;Batman: Arkham City;Warner Bros. Interactive Entertainment;Rocksteady Studios;All;Xbox 360;;Action-Adventure;94;8.8;18;10;2011
+41;Resident Evil 5;Capcom;Capcom;PS3;PlayStation 3;5100000.0;Action;84;7.4;13;3;2009
+87;Resident Evil 5;Capcom;Capcom;X360;PlayStation 3;3530000.0;Action;84;7.4;13;3;2009
+50;Resident Evil 5;Capcom;Capcom;All;PlayStation 3;;Action-Adventure;84;7.4;13;3;2009
+41;Resident Evil 5;Capcom;Capcom;PS3;Xbox 360;5100000.0;Action;83;7.4;13;3;2009
+87;Resident Evil 5;Capcom;Capcom;X360;Xbox 360;3530000.0;Action;83;7.4;13;3;2009
+50;Resident Evil 5;Capcom;Capcom;All;Xbox 360;;Action-Adventure;83;7.4;13;3;2009
+42;Grand Theft Auto: Vice City Stories;Rockstar Games;Rockstar Leeds;PSP;PSP		;5080000.0;Action;86;8.2;31;10;2006
+132;Grand Theft Auto: Vice City Stories;Rockstar Games;Rockstar Leeds/North;All;PSP		;;Action-Adventure;86;8.2;31;10;2006
+46;Uncharted: Drake's Fortune;Sony Computer Entertainment;Naughty Dog;PS3;PlayStation 3;4970000.0;Action;88;7.9;16;11;2007
+53;The Lord of the Rings: The Two Towers;Electronic Arts;Stormfront Studios;PS2;PlayStation 2;4670000.0;Action;82;8.1;21;10;2002
+74;The Lord of the Rings: The Two Towers;Electronic Arts;Stormfront Studios;All;PlayStation 2;;Action;82;8.1;21;10;2002
+57;Spider-Man: The Movie;Activision;Treyarch;PS2;PlayStation 2;4480000.0;Action;76;7.7;15;4;2002
+266;Spider-Man: The Movie;Activision;Treyarch;XB;PlayStation 2;1400000.0;Action;76;7.7;15;4;2002
+324;Spider-Man: The Movie;Activision;Treyarch;GC;PlayStation 2;1190000.0;Action;76;7.7;15;4;2002
+57;Spider-Man: The Movie;Activision;Treyarch;PS2;Xbox		;4480000.0;Action;79;7.5;15;4;2002
+266;Spider-Man: The Movie;Activision;Treyarch;XB;Xbox		;1400000.0;Action;79;7.5;15;4;2002
+324;Spider-Man: The Movie;Activision;Treyarch;GC;Xbox		;1190000.0;Action;79;7.5;15;4;2002
+57;Spider-Man: The Movie;Activision;Treyarch;PS2;GameCube		;4480000.0;Action;76;7.5;15;4;2002
+266;Spider-Man: The Movie;Activision;Treyarch;XB;GameCube		;1400000.0;Action;76;7.5;15;4;2002
+324;Spider-Man: The Movie;Activision;Treyarch;GC;GameCube		;1190000.0;Action;76;7.5;15;4;2002
+59;Batman: Arkham Asylum;Eidos Interactive;Rocksteady Studios;PS3;PlayStation 3;4280000.0;Action;91;8.8;25;8;2009
+84;Batman: Arkham Asylum;Eidos Interactive;Rocksteady Studios;X360;PlayStation 3;3540000.0;Action;91;8.8;25;8;2009
+137;Batman: Arkham Asylum;Warner Bros. Interactive Entertainment;Rocksteady Studios;All;PlayStation 3;;Action-Adventure;91;8.8;25;8;2009
+59;Batman: Arkham Asylum;Eidos Interactive;Rocksteady Studios;PS3;Xbox 360;4280000.0;Action;92;8.7;25;8;2009
+84;Batman: Arkham Asylum;Eidos Interactive;Rocksteady Studios;X360;Xbox 360;3540000.0;Action;92;8.7;25;8;2009
+137;Batman: Arkham Asylum;Warner Bros. Interactive Entertainment;Rocksteady Studios;All;Xbox 360;;Action-Adventure;92;8.7;25;8;2009
+61;Assassin's Creed: Revelations;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;4230000.0;Action;80;7.6;15;11;2011
+62;Assassin's Creed: Revelations;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;4220000.0;Action;80;7.6;15;11;2011
+92;Assassin's Creed: Revelations;Ubisoft;Ubisoft Montreal;All;PlayStation 3;;Action-Adventure;80;7.6;15;11;2011
+61;Assassin's Creed: Revelations;Ubisoft;Ubisoft Montreal;PS3;Xbox 360;4230000.0;Action;80;7.3;15;11;2011
+62;Assassin's Creed: Revelations;Ubisoft;Ubisoft Montreal;X360;Xbox 360;4220000.0;Action;80;7.3;15;11;2011
+92;Assassin's Creed: Revelations;Ubisoft;Ubisoft Montreal;All;Xbox 360;;Action-Adventure;80;7.3;15;11;2011
+65;Assassin's Creed Unity;Ubisoft;Ubisoft Montreal;All;PlayStation 4;;Action-Adventure;70;5.7;11;11;2014
+75;Far Cry 5;Ubisoft;Ubisoft;PS4;PlayStation 4;3950000.0;Action;81;6.8;27;3;2018
+199;Far Cry 5;Ubisoft;Ubisoft Montreal;XOne;PlayStation 4;1780000.0;Action;81;6.8;27;3;2018
+75;Far Cry 5;Ubisoft;Ubisoft;PS4;Xbox One;3950000.0;Action;82;6.9;27;3;2018
+199;Far Cry 5;Ubisoft;Ubisoft Montreal;XOne;Xbox One;1780000.0;Action;82;6.9;27;3;2018
+82;Grand Theft Auto: Liberty City Stories;Rockstar Games;Rockstar Leeds;PS2;PlayStation 2;3540000.0;Action;78;7.9;6;6;2006
+83;The Getaway;Sony Computer Entertainment;Team Soho;PS2;PlayStation 2;3540000.0;Action;72;7.0;19;1;2003
+85;Assassin's Creed: Brotherhood;Ubisoft;Ubisoft Montreal;X360;Xbox 360;3530000.0;Action;89;8.4;16;11;2010
+119;Assassin's Creed: Brotherhood;Ubisoft;Ubisoft Montreal;PS3;Xbox 360;2850000.0;Action;89;8.4;16;11;2010
+89;Assassin's Creed: Brotherhood;Ubisoft;Ubisoft Montreal;All;Xbox 360;;Action-Adventure;89;8.4;16;11;2010
+85;Assassin's Creed: Brotherhood;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;3530000.0;Action;90;8.3;16;11;2010
+119;Assassin's Creed: Brotherhood;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;2850000.0;Action;90;8.3;16;11;2010
+89;Assassin's Creed: Brotherhood;Ubisoft;Ubisoft Montreal;All;PlayStation 3;;Action-Adventure;90;8.3;16;11;2010
+93;Spider-Man 2;Activision;Treyarch;PS2;PlayStation 2;3410000.0;Action;80;8.7;28;6;2004
+347;Spider-Man 2;Activision;Treyarch;XB;PlayStation 2;1120000.0;Action;80;8.7;28;6;2004
+462;Spider-Man 2;Activision;Treyarch;GC;PlayStation 2;840000.0;Action;80;8.7;28;6;2004
+203;Spider-Man 2;Activision;Treyarch;All;PlayStation 2;;Action-Adventure;80;8.7;28;6;2004
+93;Spider-Man 2;Activision;Treyarch;PS2;Xbox		;3410000.0;Action;83;8.4;28;6;2004
+347;Spider-Man 2;Activision;Treyarch;XB;Xbox		;1120000.0;Action;83;8.4;28;6;2004
+462;Spider-Man 2;Activision;Treyarch;GC;Xbox		;840000.0;Action;83;8.4;28;6;2004
+203;Spider-Man 2;Activision;Treyarch;All;Xbox		;;Action-Adventure;83;8.4;28;6;2004
+93;Spider-Man 2;Activision;Treyarch;PS2;GameCube		;3410000.0;Action;80;8.4;28;6;2004
+347;Spider-Man 2;Activision;Treyarch;XB;GameCube		;1120000.0;Action;80;8.4;28;6;2004
+462;Spider-Man 2;Activision;Treyarch;GC;GameCube		;840000.0;Action;80;8.4;28;6;2004
+203;Spider-Man 2;Activision;Treyarch;All;GameCube		;;Action-Adventure;80;8.4;28;6;2004
+94;Watch Dogs 2;Ubisoft;Ubisoft;PS4;PlayStation 4;3360000.0;Action;82;7.6;15;11;2016
+280;Watch Dogs 2;Ubisoft;Ubisoft;XOne;PlayStation 4;1350000.0;Action;82;7.6;15;11;2016
+70;Watch Dogs 2;Ubisoft;Ubisoft Montreal;All;PlayStation 4;;Action-Adventure;82;7.6;15;11;2016
+94;Watch Dogs 2;Ubisoft;Ubisoft;PS4;Xbox One;3360000.0;Action;81;7.4;15;11;2016
+280;Watch Dogs 2;Ubisoft;Ubisoft;XOne;Xbox One;1350000.0;Action;81;7.4;15;11;2016
+70;Watch Dogs 2;Ubisoft;Ubisoft Montreal;All;Xbox One;;Action-Adventure;81;7.4;15;11;2016
+96;Star Wars Episode III: Revenge of the Sith;LucasArts;The Collective;PS2;PlayStation 2;3320000.0;Action;60;7.4;4;5;2005
+306;Star Wars Episode III: Revenge of the Sith;LucasArts;The Collective;XB;PlayStation 2;1240000.0;Action;60;7.4;4;5;2005
+518;Star Wars Episode III: Revenge of the Sith;Ubisoft;Ubisoft Montreal;GBA;PlayStation 2;720000.0;Action;60;7.4;4;5;2005
+1123;Star Wars Episode III: Revenge of the Sith;Ubisoft;Ubisoft Montreal;DS;PlayStation 2;310000.0;Action;60;7.4;4;5;2005
+96;Star Wars Episode III: Revenge of the Sith;LucasArts;The Collective;PS2;Game Boy Advance		;3320000.0;Action;73;8.0;4;5;2005
+306;Star Wars Episode III: Revenge of the Sith;LucasArts;The Collective;XB;Game Boy Advance		;1240000.0;Action;73;8.0;4;5;2005
+518;Star Wars Episode III: Revenge of the Sith;Ubisoft;Ubisoft Montreal;GBA;Game Boy Advance		;720000.0;Action;73;8.0;4;5;2005
+1123;Star Wars Episode III: Revenge of the Sith;Ubisoft;Ubisoft Montreal;DS;Game Boy Advance		;310000.0;Action;73;8.0;4;5;2005
+97;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;PS2;PlayStation 2;3280000.0;Action;85;8.6;5;11;2003
+344;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;XB;PlayStation 2;1140000.0;Action;85;8.6;5;11;2003
+550;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;GC;PlayStation 2;690000.0;Action;85;8.6;5;11;2003
+97;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;PS2;Xbox		;3280000.0;Action;84;8.1;5;11;2003
+344;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;XB;Xbox		;1140000.0;Action;84;8.1;5;11;2003
+550;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;GC;Xbox		;690000.0;Action;84;8.1;5;11;2003
+97;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;PS2;GameCube		;3280000.0;Action;84;8.2;5;11;2003
+344;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;XB;GameCube		;1140000.0;Action;84;8.2;5;11;2003
+550;The Lord of the Rings: The Return of the King;Electronic Arts;Hypnos Entertainment, Inc.;GC;GameCube		;690000.0;Action;84;8.2;5;11;2003
+98;True Crime: Streets of LA;Activision;Luxoflux;PS2;PlayStation 2;3270000.0;Action;77;7.8;3;11;2003
+275;True Crime: Streets of LA;Activision;Luxoflux;XB;PlayStation 2;1380000.0;Action;77;7.8;3;11;2003
+656;True Crime: Streets of LA;Activision;EXAKT Entertainment;GC;PlayStation 2;560000.0;Action;77;7.8;3;11;2003
+98;True Crime: Streets of LA;Activision;Luxoflux;PS2;Xbox		;3270000.0;Action;77;8.0;3;11;2003
+275;True Crime: Streets of LA;Activision;Luxoflux;XB;Xbox		;1380000.0;Action;77;8.0;3;11;2003
+656;True Crime: Streets of LA;Activision;EXAKT Entertainment;GC;Xbox		;560000.0;Action;77;8.0;3;11;2003
+101;Enter the Matrix;Atari;Shiny Entertainment;PS2;PlayStation 2;3180000.0;Action;62;8.2;14;5;2003
+319;Enter the Matrix;Atari;Shiny Entertainment;XB;PlayStation 2;1200000.0;Action;62;8.2;14;5;2003
+794;Enter the Matrix;Atari;Shiny Entertainment;GC;PlayStation 2;450000.0;Action;62;8.2;14;5;2003
+120;Enter the Matrix;Atari;Shiny Entertainment;All;PlayStation 2;;Action-Adventure;62;8.2;14;5;2003
+101;Enter the Matrix;Atari;Shiny Entertainment;PS2;Xbox		;3180000.0;Action;65;7.2;14;5;2003
+319;Enter the Matrix;Atari;Shiny Entertainment;XB;Xbox		;1200000.0;Action;65;7.2;14;5;2003
+794;Enter the Matrix;Atari;Shiny Entertainment;GC;Xbox		;450000.0;Action;65;7.2;14;5;2003
+120;Enter the Matrix;Atari;Shiny Entertainment;All;Xbox		;;Action-Adventure;65;7.2;14;5;2003
+102;Spider-Man;Activision;Neversoft Entertainment;PS;PlayStation		;3130000.0;Action;87;8.7;30;8;2000
+103;Resident Evil 6;Capcom;Capcom;PS3;PlayStation 3;3120000.0;Action;74;5.7;2;10;2012
+179;Resident Evil 6;Capcom;Capcom;X360;PlayStation 3;1970000.0;Action;74;5.7;2;10;2012
+103;Resident Evil 6;Capcom;Capcom;PS3;Xbox 360;3120000.0;Action;67;5.2;2;10;2012
+179;Resident Evil 6;Capcom;Capcom;X360;Xbox 360;1970000.0;Action;67;5.2;2;10;2012
+104;Saints Row 2;THQ;Volition Inc.;X360;Xbox 360;3070000.0;Action;81;8.2;14;10;2008
+221;Saints Row 2;THQ;Volition Inc.;PS3;Xbox 360;1680000.0;Action;81;8.2;14;10;2008
+157;Saints Row 2;THQ;Volition;All;Xbox 360;;Action-Adventure;81;8.2;14;10;2008
+104;Saints Row 2;THQ;Volition Inc.;X360;PlayStation 3;3070000.0;Action;82;8.1;14;10;2008
+221;Saints Row 2;THQ;Volition Inc.;PS3;PlayStation 3;1680000.0;Action;82;8.1;14;10;2008
+157;Saints Row 2;THQ;Volition;All;PlayStation 3;;Action-Adventure;82;8.1;14;10;2008
+107;Tom Clancy's Splinter Cell;Ubisoft;Ubisoft;XB;Xbox		;3020000.0;Action;93;8.6;17;11;2002
+16;Tom Clancy's Splinter Cell;Ubisoft;Ubisoft;Series;Xbox		;;Action-Adventure;93;8.6;17;11;2002
+106;Tom Clancy's Splinter Cell;Ubisoft;Ubisoft;All;Xbox		;;Action-Adventure;93;8.6;17;11;2002
+115;Hitman 2: Silent Assassin;Eidos Interactive;IO Interactive;PS2;PlayStation 2;2960000.0;Action;85;8.0;1;10;2002
+147;Hitman 2: Silent Assassin;Eidos Interactive;IO Interactive;All;PlayStation 2;;Action-Adventure;85;8.0;1;10;2002
+122;Star Wars: The Force Unleashed;LucasArts;LucasArts;X360;Xbox 360;2770000.0;Action;73;6.8;16;9;2008
+159;Star Wars: The Force Unleashed;LucasArts;LucasArts;PS3;Xbox 360;2220000.0;Action;73;6.8;16;9;2008
+187;Star Wars: The Force Unleashed;LucasArts;Krome Studios;Wii;Xbox 360;1860000.0;Action;73;6.8;16;9;2008
+300;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PS2;Xbox 360;1250000.0;Action;73;6.8;16;9;2008
+361;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PSP;Xbox 360;1090000.0;Action;73;6.8;16;9;2008
+443;Star Wars: The Force Unleashed;LucasArts;n-Space;DS;Xbox 360;880000.0;Action;73;6.8;16;9;2008
+96;Star Wars: The Force Unleashed;LucasArts;LucasArts;All;Xbox 360;;Action-Adventure;73;6.8;16;9;2008
+122;Star Wars: The Force Unleashed;LucasArts;LucasArts;X360;PlayStation 3;2770000.0;Action;71;6.8;16;9;2008
+159;Star Wars: The Force Unleashed;LucasArts;LucasArts;PS3;PlayStation 3;2220000.0;Action;71;6.8;16;9;2008
+187;Star Wars: The Force Unleashed;LucasArts;Krome Studios;Wii;PlayStation 3;1860000.0;Action;71;6.8;16;9;2008
+300;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PS2;PlayStation 3;1250000.0;Action;71;6.8;16;9;2008
+361;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PSP;PlayStation 3;1090000.0;Action;71;6.8;16;9;2008
+443;Star Wars: The Force Unleashed;LucasArts;n-Space;DS;PlayStation 3;880000.0;Action;71;6.8;16;9;2008
+96;Star Wars: The Force Unleashed;LucasArts;LucasArts;All;PlayStation 3;;Action-Adventure;71;6.8;16;9;2008
+122;Star Wars: The Force Unleashed;LucasArts;LucasArts;X360;Wii		;2770000.0;Action;71;8.0;16;9;2008
+159;Star Wars: The Force Unleashed;LucasArts;LucasArts;PS3;Wii		;2220000.0;Action;71;8.0;16;9;2008
+187;Star Wars: The Force Unleashed;LucasArts;Krome Studios;Wii;Wii		;1860000.0;Action;71;8.0;16;9;2008
+300;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PS2;Wii		;1250000.0;Action;71;8.0;16;9;2008
+361;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PSP;Wii		;1090000.0;Action;71;8.0;16;9;2008
+443;Star Wars: The Force Unleashed;LucasArts;n-Space;DS;Wii		;880000.0;Action;71;8.0;16;9;2008
+96;Star Wars: The Force Unleashed;LucasArts;LucasArts;All;Wii		;;Action-Adventure;71;8.0;16;9;2008
+122;Star Wars: The Force Unleashed;LucasArts;LucasArts;X360;PlayStation 2;2770000.0;Action;68;7.5;16;9;2008
+159;Star Wars: The Force Unleashed;LucasArts;LucasArts;PS3;PlayStation 2;2220000.0;Action;68;7.5;16;9;2008
+187;Star Wars: The Force Unleashed;LucasArts;Krome Studios;Wii;PlayStation 2;1860000.0;Action;68;7.5;16;9;2008
+300;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PS2;PlayStation 2;1250000.0;Action;68;7.5;16;9;2008
+361;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PSP;PlayStation 2;1090000.0;Action;68;7.5;16;9;2008
+443;Star Wars: The Force Unleashed;LucasArts;n-Space;DS;PlayStation 2;880000.0;Action;68;7.5;16;9;2008
+96;Star Wars: The Force Unleashed;LucasArts;LucasArts;All;PlayStation 2;;Action-Adventure;68;7.5;16;9;2008
+122;Star Wars: The Force Unleashed;LucasArts;LucasArts;X360;PSP		;2770000.0;Action;70;7.9;16;9;2008
+159;Star Wars: The Force Unleashed;LucasArts;LucasArts;PS3;PSP		;2220000.0;Action;70;7.9;16;9;2008
+187;Star Wars: The Force Unleashed;LucasArts;Krome Studios;Wii;PSP		;1860000.0;Action;70;7.9;16;9;2008
+300;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PS2;PSP		;1250000.0;Action;70;7.9;16;9;2008
+361;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PSP;PSP		;1090000.0;Action;70;7.9;16;9;2008
+443;Star Wars: The Force Unleashed;LucasArts;n-Space;DS;PSP		;880000.0;Action;70;7.9;16;9;2008
+96;Star Wars: The Force Unleashed;LucasArts;LucasArts;All;PSP		;;Action-Adventure;70;7.9;16;9;2008
+122;Star Wars: The Force Unleashed;LucasArts;LucasArts;X360;DS		;2770000.0;Action;61;5.5;16;9;2008
+159;Star Wars: The Force Unleashed;LucasArts;LucasArts;PS3;DS		;2220000.0;Action;61;5.5;16;9;2008
+187;Star Wars: The Force Unleashed;LucasArts;Krome Studios;Wii;DS		;1860000.0;Action;61;5.5;16;9;2008
+300;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PS2;DS		;1250000.0;Action;61;5.5;16;9;2008
+361;Star Wars: The Force Unleashed;LucasArts;Krome Studios;PSP;DS		;1090000.0;Action;61;5.5;16;9;2008
+443;Star Wars: The Force Unleashed;LucasArts;n-Space;DS;DS		;880000.0;Action;61;5.5;16;9;2008
+96;Star Wars: The Force Unleashed;LucasArts;LucasArts;All;DS		;;Action-Adventure;61;5.5;16;9;2008
+123;Saints Row: The Third;THQ;Volition Inc.;X360;Xbox 360;2770000.0;Action;84;7.7;15;11;2011
+137;Saints Row: The Third;THQ;Volition Inc.;PS3;Xbox 360;2480000.0;Action;84;7.7;15;11;2011
+951;Saints Row: The Third;THQ;Volition Inc.;PC;Xbox 360;380000.0;Action;84;7.7;15;11;2011
+111;Saints Row: The Third;THQ;Volition;All;Xbox 360;;Action-Adventure;84;7.7;15;11;2011
+123;Saints Row: The Third;THQ;Volition Inc.;X360;PlayStation 3;2770000.0;Action;82;7.8;15;11;2011
+137;Saints Row: The Third;THQ;Volition Inc.;PS3;PlayStation 3;2480000.0;Action;82;7.8;15;11;2011
+951;Saints Row: The Third;THQ;Volition Inc.;PC;PlayStation 3;380000.0;Action;82;7.8;15;11;2011
+111;Saints Row: The Third;THQ;Volition;All;PlayStation 3;;Action-Adventure;82;7.8;15;11;2011
+126;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;PS2;PlayStation 2;2690000.0;Action;84;8.7;12;9;2006
+264;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;PSP;PlayStation 2;1410000.0;Action;84;8.7;12;9;2006
+365;LEGO Star Wars II: The Original Trilogy;LucasArts;Amaze Entertainment;DS;PlayStation 2;1070000.0;Action;84;8.7;12;9;2006
+413;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;GC;PlayStation 2;970000.0;Action;84;8.7;12;9;2006
+588;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;X360;PlayStation 2;630000.0;Action;84;8.7;12;9;2006
+826;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;XB;PlayStation 2;440000.0;Action;84;8.7;12;9;2006
+126;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;PS2;PSP		;2690000.0;Action;83;8.1;12;9;2006
+264;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;PSP;PSP		;1410000.0;Action;83;8.1;12;9;2006
+365;LEGO Star Wars II: The Original Trilogy;LucasArts;Amaze Entertainment;DS;PSP		;1070000.0;Action;83;8.1;12;9;2006
+413;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;GC;PSP		;970000.0;Action;83;8.1;12;9;2006
+588;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;X360;PSP		;630000.0;Action;83;8.1;12;9;2006
+826;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;XB;PSP		;440000.0;Action;83;8.1;12;9;2006
+126;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;PS2;Xbox 360;2690000.0;Action;81;8.0;12;9;2006
+264;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;PSP;Xbox 360;1410000.0;Action;81;8.0;12;9;2006
+365;LEGO Star Wars II: The Original Trilogy;LucasArts;Amaze Entertainment;DS;Xbox 360;1070000.0;Action;81;8.0;12;9;2006
+413;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;GC;Xbox 360;970000.0;Action;81;8.0;12;9;2006
+588;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;X360;Xbox 360;630000.0;Action;81;8.0;12;9;2006
+826;LEGO Star Wars II: The Original Trilogy;LucasArts;Traveller's Tales;XB;Xbox 360;440000.0;Action;81;8.0;12;9;2006
+129;Tom Clancy's Splinter Cell;Ubisoft;Ubisoft;PS2;PlayStation 2;2650000.0;Action;89;7.9;8;4;2003
+56;Dead Island;Deep Silver;Techland;PC;Xbox 360;;Action;71;6.9;6;9;2011
+145;Dead Island;Deep Silver;Techland;X360;Xbox 360;2380000.0;Action;71;6.9;6;9;2011
+155;Dead Island;Deep Silver;Techland;PS3;Xbox 360;2290000.0;Action;71;6.9;6;9;2011
+46;Dead Island;Deep Silver;Techland;Series;Xbox 360;;Action-Adventure;71;6.9;6;9;2011
+117;Dead Island;Deep Silver;Techland;All;Xbox 360;;Action-Adventure;71;6.9;6;9;2011
+56;Dead Island;Deep Silver;Techland;PC;PlayStation 3;;Action;71;6.7;6;9;2011
+145;Dead Island;Deep Silver;Techland;X360;PlayStation 3;2380000.0;Action;71;6.7;6;9;2011
+155;Dead Island;Deep Silver;Techland;PS3;PlayStation 3;2290000.0;Action;71;6.7;6;9;2011
+46;Dead Island;Deep Silver;Techland;Series;PlayStation 3;;Action-Adventure;71;6.7;6;9;2011
+117;Dead Island;Deep Silver;Techland;All;PlayStation 3;;Action-Adventure;71;6.7;6;9;2011
+146;The Incredibles;THQ;Heavy Iron Studios;PS2;PlayStation 2;2370000.0;Action;62;7.8;31;10;2004
+165;The Incredibles;THQ;Helixe;GBA;PlayStation 2;2060000.0;Action;62;7.8;31;10;2004
+463;The Incredibles;THQ;Heavy Iron Studios;GC;PlayStation 2;840000.0;Action;62;7.8;31;10;2004
+146;The Incredibles;THQ;Heavy Iron Studios;PS2;Game Boy Advance		;2370000.0;Action;55;5.3;31;10;2004
+165;The Incredibles;THQ;Helixe;GBA;Game Boy Advance		;2060000.0;Action;55;5.3;31;10;2004
+463;The Incredibles;THQ;Heavy Iron Studios;GC;Game Boy Advance		;840000.0;Action;55;5.3;31;10;2004
+146;The Incredibles;THQ;Heavy Iron Studios;PS2;GameCube		;2370000.0;Action;63;6.3;31;10;2004
+165;The Incredibles;THQ;Helixe;GBA;GameCube		;2060000.0;Action;63;6.3;31;10;2004
+463;The Incredibles;THQ;Heavy Iron Studios;GC;GameCube		;840000.0;Action;63;6.3;31;10;2004
+147;Uncharted: The Lost Legacy;Sony Interactive Entertainment;Naughty Dog;PS4;PlayStation 4;2370000.0;Action;84;8.0;22;8;2017
+164;Metal Gear Solid: Peace Walker;Konami;Kojima Productions;PSP;PSP		;2080000.0;Action;89;8.7;8;6;2010
+120;Hitman: Absolution;Square Enix;IO Interactive;PC;PlayStation 3;;Action;83;7.5;20;11;2012
+166;Hitman: Absolution;Square Enix;IO Interactive;PS3;PlayStation 3;2060000.0;Action;83;7.5;20;11;2012
+214;Hitman: Absolution;Square Enix;IO Interactive;X360;PlayStation 3;1700000.0;Action;83;7.5;20;11;2012
+148;Hitman: Absolution;Square Enix;IO Interactive;All;PlayStation 3;;Action-Adventure;83;7.5;20;11;2012
+120;Hitman: Absolution;Square Enix;IO Interactive;PC;Xbox 360;;Action;79;7.2;20;11;2012
+166;Hitman: Absolution;Square Enix;IO Interactive;PS3;Xbox 360;2060000.0;Action;79;7.2;20;11;2012
+214;Hitman: Absolution;Square Enix;IO Interactive;X360;Xbox 360;1700000.0;Action;79;7.2;20;11;2012
+148;Hitman: Absolution;Square Enix;IO Interactive;All;Xbox 360;;Action-Adventure;79;7.2;20;11;2012
+170;Peter Jackson's King Kong: The Official Game of the Movie;Ubisoft;Ubisoft Montpellier;PS2;PlayStation 2;2040000.0;Action;82;8.4;21;11;2005
+691;Peter Jackson's King Kong: The Official Game of the Movie;Ubisoft;Ubisoft Montpellier;XB;PlayStation 2;530000.0;Action;82;8.4;21;11;2005
+1265;Peter Jackson's King Kong: The Official Game of the Movie;Ubisoft;Ubisoft Montpellier;X360;PlayStation 2;260000.0;Action;82;8.4;21;11;2005
+1316;Peter Jackson's King Kong: The Official Game of the Movie;Ubisoft;Ubisoft Montpellier;GC;PlayStation 2;240000.0;Action;82;8.4;21;11;2005
+1843;Peter Jackson's King Kong: The Official Game of the Movie;Ubisoft;Ubisoft Casablanca;DS;PlayStation 2;130000.0;Action;82;8.4;21;11;2005
+181;Dishonored 2;Bethesda Softworks;Arkane Studios;PS4;PlayStation 4;1970000.0;Action;88;8.2;10;11;2016
+451;Dishonored 2;Bethesda Softworks;Arkane Studios;XOne;PlayStation 4;860000.0;Action;88;8.2;10;11;2016
+1251;Dishonored 2;Bethesda Softworks;Arkane Studios;PC;PlayStation 4;260000.0;Action;88;8.2;10;11;2016
+181;Dishonored 2;Bethesda Softworks;Arkane Studios;PS4;Xbox One;1970000.0;Action;88;8.2;10;11;2016
+451;Dishonored 2;Bethesda Softworks;Arkane Studios;XOne;Xbox One;860000.0;Action;88;8.2;10;11;2016
+1251;Dishonored 2;Bethesda Softworks;Arkane Studios;PC;Xbox One;260000.0;Action;88;8.2;10;11;2016
+183;Grand Theft Auto: San Andreas;Rockstar Games;Rockstar North;XB;Xbox		;1950000.0;Action;93;8.8;7;6;2005
+412;Grand Theft Auto: San Andreas;Rockstar Games;Rockstar North;PC;Xbox		;970000.0;Action;93;8.8;7;6;2005
+183;Grand Theft Auto: San Andreas;Rockstar Games;Rockstar North;XB;PC;1950000.0;Action;93;8.9;7;6;2005
+412;Grand Theft Auto: San Andreas;Rockstar Games;Rockstar North;PC;PC;970000.0;Action;93;8.9;7;6;2005
+198;The Getaway: Black Monday;Sony Computer Entertainment;Team Soho;PS2;PlayStation 2;1780000.0;Action;57;7.9;11;1;2005
+202;50 Cent: Bulletproof;Vivendi Games;Genuine;PS2;PlayStation 2;1770000.0;Action;47;6.6;17;11;2005
+825;50 Cent: Bulletproof;Vivendi Games;Genuine Games;XB;PlayStation 2;440000.0;Action;47;6.6;17;11;2005
+204;State of Emergency;Rockstar Games;VIS Entertainment;PS2;PlayStation 2;1760000.0;Action;71;6.3;12;2;2002
+64;Just Cause 2;Eidos Interactive;Avalanche Studios;PC;PlayStation 3;;Action;83;8.0;23;3;2010
+207;Just Cause 2;Square Enix;Avalanche Studios;PS3;PlayStation 3;1750000.0;Action;83;8.0;23;3;2010
+226;Just Cause 2;Square Enix;Avalanche Studios;X360;PlayStation 3;1600000.0;Action;83;8.0;23;3;2010
+64;Just Cause 2;Eidos Interactive;Avalanche Studios;PC;Xbox 360;;Action;81;8.0;23;3;2010
+207;Just Cause 2;Square Enix;Avalanche Studios;PS3;Xbox 360;1750000.0;Action;81;8.0;23;3;2010
+226;Just Cause 2;Square Enix;Avalanche Studios;X360;Xbox 360;1600000.0;Action;81;8.0;23;3;2010
+209;For Honor;Ubisoft;Ubisoft Montreal;PS4;PlayStation 4;1750000.0;Action;78;6.1;14;2;2017
+450;For Honor;Ubisoft;Ubisoft Montreal;XOne;PlayStation 4;870000.0;Action;78;6.1;14;2;2017
+209;For Honor;Ubisoft;Ubisoft Montreal;PS4;Xbox One;1750000.0;Action;79;5.9;14;2;2017
+450;For Honor;Ubisoft;Ubisoft Montreal;XOne;Xbox One;870000.0;Action;79;5.9;14;2;2017
+219;Saints Row IV;Deep Silver;Volition Inc.;X360;Xbox 360;1690000.0;Action;81;6.6;20;8;2013
+282;Saints Row IV;Deep Silver;Volition Inc.;PS3;Xbox 360;1330000.0;Action;81;6.6;20;8;2013
+1542;Saints Row IV;Deep Silver;Volition Inc.;PC;Xbox 360;190000.0;Action;81;6.6;20;8;2013
+275;Saints Row IV;Deep Silver;Volition;All;Xbox 360;;Action-Adventure;81;6.6;20;8;2013
+219;Saints Row IV;Deep Silver;Volition Inc.;X360;PlayStation 3;1690000.0;Action;76;6.4;20;8;2013
+282;Saints Row IV;Deep Silver;Volition Inc.;PS3;PlayStation 3;1330000.0;Action;76;6.4;20;8;2013
+1542;Saints Row IV;Deep Silver;Volition Inc.;PC;PlayStation 3;190000.0;Action;76;6.4;20;8;2013
+275;Saints Row IV;Deep Silver;Volition;All;PlayStation 3;;Action-Adventure;76;6.4;20;8;2013
+222;Star Wars The Clone Wars: Lightsaber Duels;LucasArts;Krome Studios;Wii;Wii		;1650000.0;Action;56;6.7;11;11;2008
+223;Uncharted: Golden Abyss;Sony Computer Entertainment;SCEA Bend Studio / Naughty Dog;PSV;PlayStation Vita;1620000.0;Action;80;7.5;15;2;2012
+49;Devil May Cry 4;Capcom;Capcom;All;PlayStation 3;;Action;84;8.4;5;2;2008
+227;Devil May Cry 4;Capcom;Capcom;PS3;PlayStation 3;1580000.0;Action;84;8.4;5;2;2008
+281;Devil May Cry 4;Capcom;Capcom;X360;PlayStation 3;1340000.0;Action;84;8.4;5;2;2008
+49;Devil May Cry 4;Capcom;Capcom;All;Xbox 360;;Action;84;8.4;5;2;2008
+227;Devil May Cry 4;Capcom;Capcom;PS3;Xbox 360;1580000.0;Action;84;8.4;5;2;2008
+281;Devil May Cry 4;Capcom;Capcom;X360;Xbox 360;1340000.0;Action;84;8.4;5;2;2008
+229;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;Wii;Wii		;1570000.0;Action;73;7.4;10;5;2011
+372;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;X360;Wii		;1040000.0;Action;73;7.4;10;5;2011
+414;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PS3;Wii		;960000.0;Action;73;7.4;10;5;2011
+434;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;DS;Wii		;910000.0;Action;73;7.4;10;5;2011
+593;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;TT Fusion;3DS;Wii		;630000.0;Action;73;7.4;10;5;2011
+1000;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PSP;Wii		;360000.0;Action;73;7.4;10;5;2011
+229;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;Wii;Xbox 360;1570000.0;Action;73;7.3;10;5;2011
+372;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;X360;Xbox 360;1040000.0;Action;73;7.3;10;5;2011
+414;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PS3;Xbox 360;960000.0;Action;73;7.3;10;5;2011
+434;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;DS;Xbox 360;910000.0;Action;73;7.3;10;5;2011
+593;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;TT Fusion;3DS;Xbox 360;630000.0;Action;73;7.3;10;5;2011
+1000;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PSP;Xbox 360;360000.0;Action;73;7.3;10;5;2011
+229;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;Wii;PlayStation 3;1570000.0;Action;73;7.4;10;5;2011
+372;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;X360;PlayStation 3;1040000.0;Action;73;7.4;10;5;2011
+414;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PS3;PlayStation 3;960000.0;Action;73;7.4;10;5;2011
+434;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;DS;PlayStation 3;910000.0;Action;73;7.4;10;5;2011
+593;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;TT Fusion;3DS;PlayStation 3;630000.0;Action;73;7.4;10;5;2011
+1000;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PSP;PlayStation 3;360000.0;Action;73;7.4;10;5;2011
+229;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;Wii;DS		;1570000.0;Action;69;7.8;10;5;2011
+372;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;X360;DS		;1040000.0;Action;69;7.8;10;5;2011
+414;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PS3;DS		;960000.0;Action;69;7.8;10;5;2011
+434;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;DS;DS		;910000.0;Action;69;7.8;10;5;2011
+593;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;TT Fusion;3DS;DS		;630000.0;Action;69;7.8;10;5;2011
+1000;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PSP;DS		;360000.0;Action;69;7.8;10;5;2011
+229;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;Wii;3DS;1570000.0;Action;71;7.1;10;5;2011
+372;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;X360;3DS;1040000.0;Action;71;7.1;10;5;2011
+414;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PS3;3DS;960000.0;Action;71;7.1;10;5;2011
+434;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;DS;3DS;910000.0;Action;71;7.1;10;5;2011
+593;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;TT Fusion;3DS;3DS;630000.0;Action;71;7.1;10;5;2011
+1000;LEGO Pirates of the Caribbean: The Video Game;Disney Interactive Studios;Traveller's Tales;PSP;3DS;360000.0;Action;71;7.1;10;5;2011
+151;Mafia II;2K Games;Illusion Softworks;PC;Xbox 360;;Action;74;8.0;24;8;2010
+233;Mafia II;2K Games;Illusion Softworks;X360;Xbox 360;1560000.0;Action;74;8.0;24;8;2010
+247;Mafia II;2K Games;Illusion Softworks;PS3;Xbox 360;1490000.0;Action;74;8.0;24;8;2010
+151;Mafia II;2K Games;Illusion Softworks;PC;PlayStation 3;;Action;75;7.9;24;8;2010
+233;Mafia II;2K Games;Illusion Softworks;X360;PlayStation 3;1560000.0;Action;75;7.9;24;8;2010
+247;Mafia II;2K Games;Illusion Softworks;PS3;PlayStation 3;1490000.0;Action;75;7.9;24;8;2010
+237;Pac-Man World 2;Namco;Namco;PS2;PlayStation 2;1510000.0;Action;73;7.7;24;2;2002
+239;Star Wars: The Force Unleashed II;LucasArts;LucasArts;PS3;PlayStation 3;1510000.0;Action;63;6.7;26;10;2010
+259;Star Wars: The Force Unleashed II;LucasArts;LucasArts;X360;PlayStation 3;1440000.0;Action;63;6.7;26;10;2010
+487;Star Wars: The Force Unleashed II;LucasArts;LucasArts;Wii;PlayStation 3;780000.0;Action;63;6.7;26;10;2010
+1396;Star Wars: The Force Unleashed II;LucasArts;LucasArts;DS;PlayStation 3;220000.0;Action;63;6.7;26;10;2010
+239;Star Wars: The Force Unleashed II;LucasArts;LucasArts;PS3;Xbox 360;1510000.0;Action;61;5.9;26;10;2010
+259;Star Wars: The Force Unleashed II;LucasArts;LucasArts;X360;Xbox 360;1440000.0;Action;61;5.9;26;10;2010
+487;Star Wars: The Force Unleashed II;LucasArts;LucasArts;Wii;Xbox 360;780000.0;Action;61;5.9;26;10;2010
+1396;Star Wars: The Force Unleashed II;LucasArts;LucasArts;DS;Xbox 360;220000.0;Action;61;5.9;26;10;2010
+240;Metal Gear Rising: Revengeance;Konami Digital Entertainment;PlatinumGames;PS3;PlayStation 3;1500000.0;Action;80;8.1;19;2;2013
+733;Metal Gear Rising: Revengeance;Konami Digital Entertainment;PlatinumGames;X360;PlayStation 3;500000.0;Action;80;8.1;19;2;2013
+248;Dead Rising 2;Capcom;Blue Castle Games;X360;Xbox 360;1490000.0;Action;79;7.1;28;9;2010
+276;Dead Rising 2;Capcom;Blue Castle Games;PS3;Xbox 360;1370000.0;Action;79;7.1;28;9;2010
+596;Dead Rising 2;Capcom;Blue Castle Games;PC;Xbox 360;;Action;79;7.1;28;9;2010
+165;Dead Rising 2;Capcom;Blue Castle Games;All;Xbox 360;;Action-Adventure;79;7.1;28;9;2010
+248;Dead Rising 2;Capcom;Blue Castle Games;X360;PlayStation 3;1490000.0;Action;80;6.7;28;9;2010
+276;Dead Rising 2;Capcom;Blue Castle Games;PS3;PlayStation 3;1370000.0;Action;80;6.7;28;9;2010
+596;Dead Rising 2;Capcom;Blue Castle Games;PC;PlayStation 3;;Action;80;6.7;28;9;2010
+165;Dead Rising 2;Capcom;Blue Castle Games;All;PlayStation 3;;Action-Adventure;80;6.7;28;9;2010
+196;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;Wii;Xbox 360;1790000.0;Action;75;7.7;22;3;2011
+249;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;X360;Xbox 360;1480000.0;Action;75;7.7;22;3;2011
+326;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;PS3;Xbox 360;1180000.0;Action;75;7.7;22;3;2011
+354;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;DS;Xbox 360;1100000.0;Action;75;7.7;22;3;2011
+943;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;PSP;Xbox 360;390000.0;Action;75;7.7;22;3;2011
+1293;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;PC;Xbox 360;250000.0;Action;75;7.7;22;3;2011
+196;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;Wii;PlayStation 3;1790000.0;Action;76;7.6;22;3;2011
+249;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;X360;PlayStation 3;1480000.0;Action;76;7.6;22;3;2011
+326;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;PS3;PlayStation 3;1180000.0;Action;76;7.6;22;3;2011
+354;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;DS;PlayStation 3;1100000.0;Action;76;7.6;22;3;2011
+943;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;PSP;PlayStation 3;390000.0;Action;76;7.6;22;3;2011
+1293;LEGO Star Wars III: The Clone Wars;LucasArts;Traveller's Tales;PC;PlayStation 3;250000.0;Action;76;7.6;22;3;2011
+260;Frogger 2: Swampy's Revenge;Hasbro Interactive;Blitz Games;PS;PlayStation		;1430000.0;Action;77;8.2;10;10;2000
+278;Metroid: Other M;Nintendo;Nintendo SPD Production Group 1/Team Ninja;Wii;Wii		;1360000.0;Action;79;6.7;31;8;2010
+283;Alan Wake;Microsoft Game Studios;Remedy Entertainment;X360;Xbox 360;1330000.0;Action;83;8.2;18;5;2010
+130;Alan Wake;Microsoft Game Studios;Remedy Entertainment;Series;Xbox 360;;Action-Adventure;83;8.2;18;5;2010
+160;Alan Wake;Microsoft Game Studios;Remedy Entertainment;All;Xbox 360;;Action-Adventure;83;8.2;18;5;2010
+1176;Prototype;Activision;Radical Entertainment;All;Xbox 360;;Action-Adventure;78;7.7;9;6;2009
+1176;Prototype;Activision;Radical Entertainment;All;PlayStation 3;;Action-Adventure;79;7.5;9;6;2009
+296;Manhunt;Rockstar Games;Rockstar North;PS2;PlayStation 2;1280000.0;Action;76;8.4;18;11;2003
+298;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;Wii;Wii		;1260000.0;Action;76;7.5;11;11;2011
+383;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;X360;Wii		;1010000.0;Action;76;7.5;11;11;2011
+416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PS3;Wii		;950000.0;Action;76;7.5;11;11;2011
+556;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;DS;Wii		;680000.0;Action;76;7.5;11;11;2011
+1162;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PSP;Wii		;290000.0;Action;76;7.5;11;11;2011
+1416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PC;Wii		;220000.0;Action;76;7.5;11;11;2011
+359;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;TT Fusion;3DS;Wii		;410000.0;Action-Adventure;76;7.5;11;11;2011
+298;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;Wii;Xbox 360;1260000.0;Action;77;7.9;11;11;2011
+383;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;X360;Xbox 360;1010000.0;Action;77;7.9;11;11;2011
+416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PS3;Xbox 360;950000.0;Action;77;7.9;11;11;2011
+556;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;DS;Xbox 360;680000.0;Action;77;7.9;11;11;2011
+1162;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PSP;Xbox 360;290000.0;Action;77;7.9;11;11;2011
+1416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PC;Xbox 360;220000.0;Action;77;7.9;11;11;2011
+359;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;TT Fusion;3DS;Xbox 360;410000.0;Action-Adventure;77;7.9;11;11;2011
+298;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;Wii;PlayStation 3;1260000.0;Action;76;8.0;11;11;2011
+383;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;X360;PlayStation 3;1010000.0;Action;76;8.0;11;11;2011
+416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PS3;PlayStation 3;950000.0;Action;76;8.0;11;11;2011
+556;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;DS;PlayStation 3;680000.0;Action;76;8.0;11;11;2011
+1162;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PSP;PlayStation 3;290000.0;Action;76;8.0;11;11;2011
+1416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PC;PlayStation 3;220000.0;Action;76;8.0;11;11;2011
+359;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;TT Fusion;3DS;PlayStation 3;410000.0;Action-Adventure;76;8.0;11;11;2011
+298;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;Wii;DS		;1260000.0;Action;69;6.5;11;11;2011
+383;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;X360;DS		;1010000.0;Action;69;6.5;11;11;2011
+416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PS3;DS		;950000.0;Action;69;6.5;11;11;2011
+556;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;DS;DS		;680000.0;Action;69;6.5;11;11;2011
+1162;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PSP;DS		;290000.0;Action;69;6.5;11;11;2011
+1416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PC;DS		;220000.0;Action;69;6.5;11;11;2011
+359;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;TT Fusion;3DS;DS		;410000.0;Action-Adventure;69;6.5;11;11;2011
+298;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;Wii;3DS;1260000.0;Action;71;6.7;11;11;2011
+383;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;X360;3DS;1010000.0;Action;71;6.7;11;11;2011
+416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PS3;3DS;950000.0;Action;71;6.7;11;11;2011
+556;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;DS;3DS;680000.0;Action;71;6.7;11;11;2011
+1162;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PSP;3DS;290000.0;Action;71;6.7;11;11;2011
+1416;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;Traveller's Tales;PC;3DS;220000.0;Action;71;6.7;11;11;2011
+359;LEGO Harry Potter: Years 5-7;Warner Bros. Interactive;TT Fusion;3DS;3DS;410000.0;Action-Adventure;71;6.7;11;11;2011
+299;Assassin's Creed: Bloodlines;Ubisoft;Griptonite Studio;PSP;PSP		;1260000.0;Action;63;6.9;17;11;2009
+303;Lara Croft Tomb Raider: The Angel of Darkness;Eidos Interactive;Core Design Ltd.;PS2;PlayStation 2;1250000.0;Action;52;6.4;20;6;2003
+218;Ben 10: Protector of Earth;D3 Publisher;1st Playable Productions;DS;Wii		;1700000.0;Action;63;7.5;30;10;2007
+308;Ben 10: Protector of Earth;D3 Publisher;High Voltage Software;Wii;Wii		;1230000.0;Action;63;7.5;30;10;2007
+466;Ben 10: Protector of Earth;D3 Publisher;High Voltage Software;PS2;Wii		;840000.0;Action;63;7.5;30;10;2007
+522;Ben 10: Protector of Earth;D3 Publisher;Unknown;PSP;Wii		;720000.0;Action;63;7.5;30;10;2007
+184;Ben 10: Protector of Earth;D3 Publisher;High Voltage Software;All;Wii		;;Action-Adventure;63;7.5;30;10;2007
+142;Bayonetta;Sega;PlatinumGames;Series;PlayStation 3;;Action;87;7.7;5;1;2010
+201;Bayonetta;Sega;PlatinumGames;All;PlayStation 3;;Action;87;7.7;5;1;2010
+309;Bayonetta;Sega;PlatinumGames;PS3;PlayStation 3;1210000.0;Action;87;7.7;5;1;2010
+427;Bayonetta;Sega;PlatinumGames;X360;PlayStation 3;930000.0;Action;87;7.7;5;1;2010
+142;Bayonetta;Sega;PlatinumGames;Series;Xbox 360;;Action;90;8.1;5;1;2010
+201;Bayonetta;Sega;PlatinumGames;All;Xbox 360;;Action;90;8.1;5;1;2010
+309;Bayonetta;Sega;PlatinumGames;PS3;Xbox 360;1210000.0;Action;90;8.1;5;1;2010
+427;Bayonetta;Sega;PlatinumGames;X360;Xbox 360;930000.0;Action;90;8.1;5;1;2010
+312;The Lord of the Rings: The Fellowship of the Ring;Black Label Games;Surreal Software;PS2;PlayStation 2;1200000.0;Action;59;4.7;16;10;2002
+322;Metal Gear Solid: Portable Ops;Konami;Kojima Productions;PSP;PSP		;1190000.0;Action;87;8.1;5;12;2006
+323;Hitman 2: Silent Assassin;Eidos Interactive;IO Interactive;XB;Xbox		;1190000.0;Action;84;7.1;30;9;2002
+325;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;PlayStation 4;1180000.0;Action;80;7.2;27;9;2015
+446;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;X360;PlayStation 4;870000.0;Action;80;7.2;27;9;2015
+477;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;PS3;PlayStation 4;810000.0;Action;80;7.2;27;9;2015
+523;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;PlayStation 4;720000.0;Action;80;7.2;27;9;2015
+578;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;WiiU;PlayStation 4;650000.0;Action;80;7.2;27;9;2015
+325;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;Xbox One;1180000.0;Action;80;7.1;27;9;2015
+446;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;X360;Xbox One;870000.0;Action;80;7.1;27;9;2015
+477;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;PS3;Xbox One;810000.0;Action;80;7.1;27;9;2015
+523;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;Xbox One;720000.0;Action;80;7.1;27;9;2015
+578;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;WiiU;Xbox One;650000.0;Action;80;7.1;27;9;2015
+325;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;Wii U;1180000.0;Action;62;6.4;27;9;2015
+446;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;X360;Wii U;870000.0;Action;62;6.4;27;9;2015
+477;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;PS3;Wii U;810000.0;Action;62;6.4;27;9;2015
+523;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;Wii U;720000.0;Action;62;6.4;27;9;2015
+578;LEGO Dimensions;Warner Bros. Interactive Entertainment;Traveller's Tales;WiiU;Wii U;650000.0;Action;62;6.4;27;9;2015
+332;Gauntlet: Dark Legacy;Midway Games;Midway Games West;PS2;PlayStation 2;1150000.0;Action;73;8.3;1;5;2001
+341;Tenchu: Wrath of Heaven;Activision;K2 LLC;PS2;PlayStation 2;1140000.0;Action;79;8.6;3;3;2003
+348;Transformers: The Game;Activision;Traveller's Tales;PS2;PlayStation 2;1110000.0;Action;56;6.6;26;6;2007
+618;Transformers: The Game;Activision;Traveller's Tales;X360;PlayStation 2;600000.0;Action;56;6.6;26;6;2007
+638;Transformers: The Game;Activision;Traveller's Tales;Wii;PlayStation 2;580000.0;Action;56;6.6;26;6;2007
+913;Transformers: The Game;Activision;Traveller's Tales;PS3;PlayStation 2;400000.0;Action;56;6.6;26;6;2007
+349;LEGO Marvel Super Heroes 2;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;PlayStation 4;1110000.0;Action;73;6.9;14;11;2017
+562;LEGO Marvel Super Heroes 2;Warner Bros. Interactive Entertainment;Traveller's Tales;NS;PlayStation 4;670000.0;Action;73;6.9;14;11;2017
+643;LEGO Marvel Super Heroes 2;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;PlayStation 4;570000.0;Action;73;6.9;14;11;2017
+349;LEGO Marvel Super Heroes 2;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;Switch;1110000.0;Action;76;7.1;14;11;2017
+562;LEGO Marvel Super Heroes 2;Warner Bros. Interactive Entertainment;Traveller's Tales;NS;Switch;670000.0;Action;76;7.1;14;11;2017
+643;LEGO Marvel Super Heroes 2;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;Switch;570000.0;Action;76;7.1;14;11;2017
+350;Castlevania: Lords of Shadow;Konami;Mercury Steam;PS3;PlayStation 3;1110000.0;Action;85;8.0;5;10;2010
+565;Castlevania: Lords of Shadow;Konami;Mercury Steam;X360;PlayStation 3;660000.0;Action;85;8.0;5;10;2010
+236;Castlevania: Lords of Shadow;Konami;Mercury Steam;All;PlayStation 3;;Action-Adventure;85;8.0;5;10;2010
+350;Castlevania: Lords of Shadow;Konami;Mercury Steam;PS3;Xbox 360;1110000.0;Action;83;7.9;5;10;2010
+565;Castlevania: Lords of Shadow;Konami;Mercury Steam;X360;Xbox 360;660000.0;Action;83;7.9;5;10;2010
+236;Castlevania: Lords of Shadow;Konami;Mercury Steam;All;Xbox 360;;Action-Adventure;83;7.9;5;10;2010
+721;Bully: Scholarship Edition;Rockstar Games;Rockstar Toronto;Wii;Xbox 360;500000.0;Action;80;8.3;4;3;2008
+362;The Godfather;Electronic Arts;Headgate;PS2;PlayStation 2;1090000.0;Action;75;8.5;21;3;2006
+278;The Godfather;Electronic Arts;EA Redwood Shores;All;PlayStation 2;;Action-Adventure;75;8.5;21;3;2006
+363;Dante's Inferno;Electronic Arts;Visceral Games;PS3;PlayStation 3;1080000.0;Action;75;7.6;9;2;2010
+431;Dante's Inferno;Electronic Arts;Visceral Games;X360;PlayStation 3;920000.0;Action;75;7.6;9;2;2010
+363;Dante's Inferno;Electronic Arts;Visceral Games;PS3;Xbox 360;1080000.0;Action;73;7.6;9;2;2010
+431;Dante's Inferno;Electronic Arts;Visceral Games;X360;Xbox 360;920000.0;Action;73;7.6;9;2;2010
+77;Lego Star Wars II: The Original Trilogy;LucasArts;TT Games;All;DS		;;Action-Adventure;47;5.1;12;9;2006
+77;Lego Star Wars II: The Original Trilogy;LucasArts;TT Games;All;GameCube		;;Action-Adventure;84;8.7;12;9;2006
+366;Hulk;Universal Interactive;Radical Entertainment;PS2;PlayStation 2;1060000.0;Action;71;7.8;27;5;2003
+1055;Hulk;Universal Interactive;Radical Entertainment;XB;PlayStation 2;330000.0;Action;71;7.8;27;5;2003
+1528;Hulk;Universal Interactive;Radical Entertainment;GC;PlayStation 2;190000.0;Action;71;7.8;27;5;2003
+367;Darksiders;THQ;Vigil Games;X360;Xbox 360;1060000.0;Action;83;7.9;5;1;2010
+1199;Darksiders;THQ;Vigil Games;PS3;Xbox 360;280000.0;Action;83;7.9;5;1;2010
+128;Darksiders;THQ;Vigil Games;Series;Xbox 360;;Action-Adventure;83;7.9;5;1;2010
+154;Darksiders;THQ;Vigil Games;All;Xbox 360;;Action-Adventure;83;7.9;5;1;2010
+369;The Evil Within 2;Bethesda Softworks;Tango Gameworks;PS4;PlayStation 4;1050000.0;Action;76;8.2;13;10;2017
+935;The Evil Within 2;Bethesda Softworks;Tango Gameworks;XOne;PlayStation 4;390000.0;Action;76;8.2;13;10;2017
+1375;The Evil Within 2;Bethesda Softworks;Tango Gameworks;PC;PlayStation 4;;Action;76;8.2;13;10;2017
+370;Disney Universe;Disney Interactive Studios;Disney Interactive Studios;Wii;Wii		;1050000.0;Action;61;6.6;25;10;2011
+601;Disney Universe;Disney Interactive Studios;Disney Interactive Studios;PS3;Wii		;620000.0;Action;61;6.6;25;10;2011
+650;Disney Universe;Disney Interactive Studios;Disney Interactive Studios;X360;Wii		;570000.0;Action;61;6.6;25;10;2011
+374;Guinness World Records: The Videogame;Warner Bros. Interactive;Traveller's Tales;Wii;Wii		;1030000.0;Action;67;7.0;11;11;2008
+705;Guinness World Records: The Videogame;Warner Bros. Interactive;Traveller's Tales;DS;Wii		;520000.0;Action;67;7.0;11;11;2008
+381;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;PlayStation 4;1010000.0;Action;71;7.1;26;1;2016
+756;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;PlayStation 4;480000.0;Action;71;7.1;26;1;2016
+851;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;Traveller's Tales;PS3;PlayStation 4;430000.0;Action;71;7.1;26;1;2016
+925;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;Traveller's Tales;X360;PlayStation 4;390000.0;Action;71;7.1;26;1;2016
+1089;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;Traveller's Tales;WiiU;PlayStation 4;320000.0;Action;71;7.1;26;1;2016
+1130;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;TT Fusion;3DS;PlayStation 4;300000.0;Action;71;7.1;26;1;2016
+1439;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;Traveller's Tales;PC;PlayStation 4;;Action;71;7.1;26;1;2016
+1523;LEGO Marvel's Avengers;Warner Bros. Interactive Entertainment;TT Fusion;PSV;PlayStation 4;190000.0;Action;71;7.1;26;1;2016
+403;Dynasty Warriors 3: Xtreme Legends;KOEI;Omega Force;PS2;PlayStation 2;1000000.0;Action;72;8.5;11;1;2003
+405;The Bouncer;Square;SquareSoft;PS2;PlayStation 2;990000.0;Action;66;7.7;5;3;2001
+409;Brutal Legend;Electronic Arts;Double Fine Productions;X360;Xbox 360;970000.0;Action;82;8.0;13;10;2009
+423;Brutal Legend;Electronic Arts;Double Fine Productions;PS3;Xbox 360;940000.0;Action;82;8.0;13;10;2009
+815;Brutal Legend;Electronic Arts;Double Fine Productions;All;Xbox 360;;Action-Adventure;82;8.0;13;10;2009
+409;Brutal Legend;Electronic Arts;Double Fine Productions;X360;PlayStation 3;970000.0;Action;83;7.7;13;10;2009
+423;Brutal Legend;Electronic Arts;Double Fine Productions;PS3;PlayStation 3;940000.0;Action;83;7.7;13;10;2009
+815;Brutal Legend;Electronic Arts;Double Fine Productions;All;PlayStation 3;;Action-Adventure;83;7.7;13;10;2009
+410;Grand Theft Auto: Vice City Stories;Rockstar Games;Rockstar Leeds;PS2;PlayStation 2;970000.0;Action;75;7.8;5;3;2007
+415;Shinobi;Sega;Overworks;PS2;PlayStation 2;960000.0;Action;71;8.2;10;11;2002
+424;Castlevania: Lament of Innocence;Konami;Konami Computer Entertainment Tokyo;PS2;PlayStation 2;940000.0;Action;79;8.6;21;10;2003
+428;Teenage Mutant Ninja Turtles;Konami;Konami;GBA;Game Boy Advance		;930000.0;Action;71;8.1;31;10;2003
+1039;Teenage Mutant Ninja Turtles;Konami;Konami;GC;Game Boy Advance		;340000.0;Action;71;8.1;31;10;2003
+430;Teenage Mutant Ninja Turtles;Konami;Konami;PS2;PlayStation 2;920000.0;Action;59;7.5;21;10;2003
+1145;Teenage Mutant Ninja Turtles;Konami;Konami;XB;PlayStation 2;300000.0;Action;59;7.5;21;10;2003
+433;Dynasty Warriors 7;Tecmo Koei;Omega Force;PS3;PlayStation 3;910000.0;Action;57;7.3;29;3;2011
+568;Dynasty Warriors 7;Tecmo Koei;Omega Force;All;PlayStation 3;;Action;57;7.3;29;3;2011
+435;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;900000.0;Action;60;6.8;1;12;2009
+493;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;770000.0;Action;60;6.8;1;12;2009
+524;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;Wii;PlayStation 3;720000.0;Action;60;6.8;1;12;2009
+610;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;PSP;PlayStation 3;610000.0;Action;60;6.8;1;12;2009
+906;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;DS;PlayStation 3;400000.0;Action;60;6.8;1;12;2009
+1052;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;All;PlayStation 3;;Action-Adventure;60;6.8;1;12;2009
+435;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;PS3;Xbox 360;900000.0;Action;61;6.8;1;12;2009
+493;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;X360;Xbox 360;770000.0;Action;61;6.8;1;12;2009
+524;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;Wii;Xbox 360;720000.0;Action;61;6.8;1;12;2009
+610;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;PSP;Xbox 360;610000.0;Action;61;6.8;1;12;2009
+906;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;DS;Xbox 360;400000.0;Action;61;6.8;1;12;2009
+1052;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;All;Xbox 360;;Action-Adventure;61;6.8;1;12;2009
+435;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;PS3;Wii		;900000.0;Action;60;4.0;1;12;2009
+493;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;X360;Wii		;770000.0;Action;60;4.0;1;12;2009
+524;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;Wii;Wii		;720000.0;Action;60;4.0;1;12;2009
+610;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;PSP;Wii		;610000.0;Action;60;4.0;1;12;2009
+906;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;DS;Wii		;400000.0;Action;60;4.0;1;12;2009
+1052;James Cameron's Avatar: The Game;Ubisoft;Ubisoft Montreal;All;Wii		;;Action-Adventure;60;4.0;1;12;2009
+439;Finding Nemo;THQ;Traveller's Tales;GC;GameCube		;890000.0;Action;62;5.4;12;5;2003
+440;Resident Evil: Revelations;Capcom;Capcom;3DS;3DS;890000.0;Action;82;8.5;7;2;2012
+196;Resident Evil: Revelations;Capcom;Capcom;All;3DS;;Action-Adventure;82;8.5;7;2;2012
+442;Fortnite;Gearbox Software;Epic Games;PS4;PlayStation 4;890000.0;Action;78;3.9;21;7;2017
+495;Fortnite;Gearbox Software;Epic Games;XOne;PlayStation 4;770000.0;Action;78;3.9;21;7;2017
+442;Fortnite;Gearbox Software;Epic Games;PS4;Xbox One;890000.0;Action;85;3.7;21;7;2017
+495;Fortnite;Gearbox Software;Epic Games;XOne;Xbox One;770000.0;Action;85;3.7;21;7;2017
+447;Grand Theft Auto IV;Rockstar Games;Rockstar Toronto;PC;PC;870000.0;Action;90;7.0;2;12;2008
+21;Grand Theft Auto IV;Rockstar Games;Rockstar North;All;PC;;Action-Adventure;90;7.0;2;12;2008
+116;Warriors Orochi;KOEI;Omega Force;Series;PlayStation 2;;Action;55;8.4;18;9;2007
+245;Warriors Orochi;KOEI;Omega Force;All;PlayStation 2;;Action;55;8.4;18;9;2007
+448;Warriors Orochi;KOEI;Omega Force;PS2;PlayStation 2;870000.0;Action;55;8.4;18;9;2007
+1502;Warriors Orochi;KOEI;Omega Force;X360;PlayStation 2;200000.0;Action;55;8.4;18;9;2007
+449;Ghostbusters: The Video Game;Atari;Red Fly Studio;Wii;Wii		;870000.0;Action;76;8.3;16;6;2009
+461;Ghostbusters: The Video Game;Atari;Terminal Reality;PS3;Wii		;840000.0;Action;76;8.3;16;6;2009
+598;Ghostbusters: The Video Game;Atari;Terminal Reality;X360;Wii		;620000.0;Action;76;8.3;16;6;2009
+846;Ghostbusters: The Video Game;Atari;Red Fly Studio;PS2;Wii		;430000.0;Action;76;8.3;16;6;2009
+915;Ghostbusters: The Video Game;Atari;Zen Studios Inc.;DS;Wii		;400000.0;Action;76;8.3;16;6;2009
+984;Ghostbusters: The Video Game;Atari;Terminal Reality;All;Wii		;;Action-Adventure;76;8.3;16;6;2009
+449;Ghostbusters: The Video Game;Atari;Red Fly Studio;Wii;PlayStation 3;870000.0;Action;78;8.0;16;6;2009
+461;Ghostbusters: The Video Game;Atari;Terminal Reality;PS3;PlayStation 3;840000.0;Action;78;8.0;16;6;2009
+598;Ghostbusters: The Video Game;Atari;Terminal Reality;X360;PlayStation 3;620000.0;Action;78;8.0;16;6;2009
+846;Ghostbusters: The Video Game;Atari;Red Fly Studio;PS2;PlayStation 3;430000.0;Action;78;8.0;16;6;2009
+915;Ghostbusters: The Video Game;Atari;Zen Studios Inc.;DS;PlayStation 3;400000.0;Action;78;8.0;16;6;2009
+984;Ghostbusters: The Video Game;Atari;Terminal Reality;All;PlayStation 3;;Action-Adventure;78;8.0;16;6;2009
+449;Ghostbusters: The Video Game;Atari;Red Fly Studio;Wii;Xbox 360;870000.0;Action;79;8.5;16;6;2009
+461;Ghostbusters: The Video Game;Atari;Terminal Reality;PS3;Xbox 360;840000.0;Action;79;8.5;16;6;2009
+598;Ghostbusters: The Video Game;Atari;Terminal Reality;X360;Xbox 360;620000.0;Action;79;8.5;16;6;2009
+846;Ghostbusters: The Video Game;Atari;Red Fly Studio;PS2;Xbox 360;430000.0;Action;79;8.5;16;6;2009
+915;Ghostbusters: The Video Game;Atari;Zen Studios Inc.;DS;Xbox 360;400000.0;Action;79;8.5;16;6;2009
+984;Ghostbusters: The Video Game;Atari;Terminal Reality;All;Xbox 360;;Action-Adventure;79;8.5;16;6;2009
+453;Dynasty Warriors 4: Xtreme Legends;KOEI;Omega Force;PS2;PlayStation 2;860000.0;Action;72;8.3;4;11;2003
+454;Tomb Raider: Anniversary;Eidos Interactive;Crystal Dynamics;Wii;Wii		;850000.0;Action;73;7.5;13;11;2007
+457;Ninja Gaiden Sigma 2;Tecmo Koei;Team Ninja;PS3;PlayStation 3;850000.0;Action;83;7.7;29;9;2009
+468;Dynasty Warriors 2;KOEI;Omega Force;PS2;PlayStation 2;830000.0;Action;75;8.4;25;10;2000
+470;Lizzie McGuire 2: Lizzie Diaries;Disney Interactive Studios;Artificial Mind and Movement;GBA;Game Boy Advance		;830000.0;Action;57;5.0;18;10;2004
+418;Ben 10: Alien Force;D3 Publisher;1st Playable Productions / OneNine Studios;DS;Wii		;950000.0;Action;45;7.8;28;10;2008
+479;Ben 10: Alien Force;D3 Publisher;Monkey Bar Games;Wii;Wii		;800000.0;Action;45;7.8;28;10;2008
+612;Ben 10: Alien Force;D3 Publisher;Monkey Bar Games;PSP;Wii		;600000.0;Action;45;7.8;28;10;2008
+646;Ben 10: Alien Force;D3 Publisher;Monkey Bar Games;PS2;Wii		;570000.0;Action;45;7.8;28;10;2008
+255;Ben 10: Alien Force;D3 Publisher;Monkey Bar Games;All;Wii		;;Action-Adventure;45;7.8;28;10;2008
+480;Star Wars The Clone Wars: Republic Heroes;LucasArts;Krome Studios;Wii;Wii		;800000.0;Action;48;5.8;6;10;2009
+838;Star Wars The Clone Wars: Republic Heroes;LucasArts;Krome Studios;PS3;Wii		;440000.0;Action;48;5.8;6;10;2009
+881;Star Wars The Clone Wars: Republic Heroes;LucasArts;Krome Studios;PSP;Wii		;410000.0;Action;48;5.8;6;10;2009
+916;Star Wars The Clone Wars: Republic Heroes;LucasArts;Krome Studios;DS;Wii		;400000.0;Action;48;5.8;6;10;2009
+932;Star Wars The Clone Wars: Republic Heroes;LucasArts;Krome Studios;X360;Wii		;390000.0;Action;48;5.8;6;10;2009
+1270;Star Wars The Clone Wars: Republic Heroes;LucasArts;Krome Studios;PS2;Wii		;250000.0;Action;48;5.8;6;10;2009
+483;Prototype 2;Activision;Radical Entertainment;X360;Xbox 360;790000.0;Action;74;7.0;24;4;2012
+491;Prototype 2;Activision;Radical Entertainment;PS3;Xbox 360;770000.0;Action;74;7.0;24;4;2012
+1904;Prototype 2;Activision;Radical Entertainment;PC;Xbox 360;120000.0;Action;74;7.0;24;4;2012
+483;Prototype 2;Activision;Radical Entertainment;X360;PlayStation 3;790000.0;Action;79;6.8;24;4;2012
+491;Prototype 2;Activision;Radical Entertainment;PS3;PlayStation 3;770000.0;Action;79;6.8;24;4;2012
+1904;Prototype 2;Activision;Radical Entertainment;PC;PlayStation 3;120000.0;Action;79;6.8;24;4;2012
+485;MadWorld;Sega;PlatinumGames;Wii;Wii		;780000.0;Action;81;8.6;10;3;2009
+327;LEGO Jurassic World;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;Xbox One;1180000.0;Action;70;6.8;12;6;2015
+378;LEGO Jurassic World;Warner Bros. Interactive Entertainment;Traveller's Tales;PS3;Xbox One;1020000.0;Action;70;6.8;12;6;2015
+382;LEGO Jurassic World;Warner Bros. Interactive Entertainment;Traveller's Tales;X360;Xbox One;1010000.0;Action;70;6.8;12;6;2015
+460;LEGO Jurassic World;Warner Bros. Interactive Entertainment;TT Fusion;3DS;Xbox One;850000.0;Action;70;6.8;12;6;2015
+486;LEGO Jurassic World;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;Xbox One;780000.0;Action;70;6.8;12;6;2015
+655;LEGO Jurassic World;Warner Bros. Interactive Entertainment;Traveller's Tales;WiiU;Xbox One;570000.0;Action;70;6.8;12;6;2015
+1024;LEGO Jurassic World;Warner Bros. Interactive Entertainment;Traveller's Tales;PC;Xbox One;;Action;70;6.8;12;6;2015
+1227;LEGO Jurassic World;Warner Bros. Interactive Entertainment;TT Fusion;PSV;Xbox One;270000.0;Action;70;6.8;12;6;2015
+489;Star Wars The Clone Wars: Jedi Alliance;LucasArts;Krome Studios;DS;DS		;780000.0;Action;68;7.7;11;11;2008
+496;Star Wars Episode II: Attack of the Clones;THQ;David A. Palmer Productions;GBA;Game Boy Advance		;770000.0;Action;38;3.4;30;5;2002
+499;Resident Evil: Revelations;Capcom;Capcom;PS3;PlayStation 3;760000.0;Action;74;7.5;21;5;2013
+504;True Crime: New York City;Activision;Luxoflux;PS2;PlayStation 2;760000.0;Action;60;7.7;15;11;2005
+1208;True Crime: New York City;Activision;EXAKT Entertainment;XB;PlayStation 2;280000.0;Action;60;7.7;15;11;2005
+1607;True Crime: New York City;Activision;EXAKT Entertainment;GC;PlayStation 2;170000.0;Action;60;7.7;15;11;2005
+506;Genji: Days of the Blade;Sony Computer Entertainment;Game Republic;PS3;PlayStation 3;750000.0;Action;55;6.1;14;11;2006
+508;Shark Tale;Activision;Edge of Reality;PS2;PlayStation 2;750000.0;Action;69;6.1;27;9;2004
+552;Shark Tale;Activision;Vicarious Visions;GBA;PlayStation 2;680000.0;Action;69;6.1;27;9;2004
+1143;Shark Tale;Activision;Edge of Reality;GC;PlayStation 2;300000.0;Action;69;6.1;27;9;2004
+1488;Shark Tale;Activision;Edge of Reality;XB;PlayStation 2;200000.0;Action;69;6.1;27;9;2004
+508;Shark Tale;Activision;Edge of Reality;PS2;Game Boy Advance		;750000.0;Action;63;7.8;27;9;2004
+552;Shark Tale;Activision;Vicarious Visions;GBA;Game Boy Advance		;680000.0;Action;63;7.8;27;9;2004
+1143;Shark Tale;Activision;Edge of Reality;GC;Game Boy Advance		;300000.0;Action;63;7.8;27;9;2004
+1488;Shark Tale;Activision;Edge of Reality;XB;Game Boy Advance		;200000.0;Action;63;7.8;27;9;2004
+509;The Lord of the Rings: Conquest;Electronic Arts;Pandemic Studios;PS3;PlayStation 3;750000.0;Action;54;7.1;13;1;2009
+590;The Lord of the Rings: Conquest;Electronic Arts;Pandemic Studios;X360;PlayStation 3;630000.0;Action;54;7.1;13;1;2009
+509;The Lord of the Rings: Conquest;Electronic Arts;Pandemic Studios;PS3;Xbox 360;750000.0;Action;55;7.0;13;1;2009
+590;The Lord of the Rings: Conquest;Electronic Arts;Pandemic Studios;X360;Xbox 360;630000.0;Action;55;7.0;13;1;2009
+510;Ace Combat: Assault Horizon;Namco Bandai;Project ACES;PS3;PlayStation 3;740000.0;Action;77;6.8;11;10;2011
+745;Ace Combat: Assault Horizon;Namco Bandai;Project ACES;X360;PlayStation 3;490000.0;Action;77;6.8;11;10;2011
+519;Ultimate Spider-Man;Activision;Treyarch;PS2;PlayStation 2;720000.0;Action;74;8.2;22;9;2005
+922;Ultimate Spider-Man;Activision;Treyarch;XB;PlayStation 2;390000.0;Action;74;8.2;22;9;2005
+1125;Ultimate Spider-Man;Activision;Vicarious Visions;GBA;PlayStation 2;300000.0;Action;74;8.2;22;9;2005
+527;The Lord of the Rings: The Two Towers;Electronic Arts;Stormfront Studios;XB;Xbox		;710000.0;Action;79;8.2;30;12;2002
+699;The Lord of the Rings: The Two Towers;Electronic Arts;Stormfront Studios;GC;Xbox		;530000.0;Action;79;8.2;30;12;2002
+529;Scooby-Doo 2: Monsters Unleashed;THQ;Altron;GBA;Game Boy Advance		;710000.0;Action;46;tbd;16;3;2004
+530;Power Rangers: Dino Thunder;THQ;Pacific Coast Power & Light;PS2;PlayStation 2;710000.0;Action;49;6.6;14;9;2004
+904;Power Rangers: Dino Thunder;THQ;Pacific Coast Power & Light;GC;PlayStation 2;400000.0;Action;49;6.6;14;9;2004
+532;Dynasty Warriors 6;KOEI;Omega Force;PS3;PlayStation 3;710000.0;Action;59;7.1;19;2;2008
+1138;Dynasty Warriors 6;KOEI;Omega Force;X360;PlayStation 3;300000.0;Action;59;7.1;19;2;2008
+536;Star Wars: Obi-Wan;LucasArts;LucasArts;XB;Xbox		;700000.0;Action;58;5.8;19;12;2001
+537;F-14 Tomcat;Majesco;Virtucraft;GBA;Game Boy Advance		;700000.0;Action;67;8.0;2;9;2001
+540;James Bond 007: Blood Stone;Activision;Bizarre Creations;PS3;PlayStation 3;700000.0;Action;65;7.4;2;11;2010
+770;James Bond 007: Blood Stone;Activision;Bizarre Creations;X360;PlayStation 3;470000.0;Action;65;7.4;2;11;2010
+541;Transformers: Revenge of the Fallen;Activision;Luxoflux Corp.;PS3;PlayStation 3;700000.0;Action;63;6.9;23;6;2009
+597;Transformers: Revenge of the Fallen;Activision;Luxoflux Corp.;X360;PlayStation 3;630000.0;Action;63;6.9;23;6;2009
+750;Transformers: Revenge of the Fallen;Activision;Krome Studios;PS2;PlayStation 3;490000.0;Action;63;6.9;23;6;2009
+758;Transformers: Revenge of the Fallen;Activision;Krome Studios;Wii;PlayStation 3;480000.0;Action;63;6.9;23;6;2009
+890;Transformers: Revenge of the Fallen;Activision;Savage Entertainment;PSP;PlayStation 3;410000.0;Action;63;6.9;23;6;2009
+541;Transformers: Revenge of the Fallen;Activision;Luxoflux Corp.;PS3;Xbox 360;700000.0;Action;61;7.4;23;6;2009
+597;Transformers: Revenge of the Fallen;Activision;Luxoflux Corp.;X360;Xbox 360;630000.0;Action;61;7.4;23;6;2009
+750;Transformers: Revenge of the Fallen;Activision;Krome Studios;PS2;Xbox 360;490000.0;Action;61;7.4;23;6;2009
+758;Transformers: Revenge of the Fallen;Activision;Krome Studios;Wii;Xbox 360;480000.0;Action;61;7.4;23;6;2009
+890;Transformers: Revenge of the Fallen;Activision;Savage Entertainment;PSP;Xbox 360;410000.0;Action;61;7.4;23;6;2009
+543;Mafia;Gathering of Developers;Illusion Softworks;PS2;PlayStation 2;700000.0;Action;65;8.3;28;1;2004
+545;Metal Gear Solid: Portable Ops Plus;Konami;Kojima Productions;PSP;PSP		;690000.0;Action;65;7.5;13;11;2007
+546;Mortal Kombat: Shaolin Monks;Midway Games;Midway Studios Los Angeles;PS2;PlayStation 2;690000.0;Action;77;8.8;16;9;2005
+1103;Mortal Kombat: Shaolin Monks;Midway Games;Midway Studios Los Angeles;XB;PlayStation 2;310000.0;Action;77;8.8;16;9;2005
+548;Prince of Persia: The Forgotten Sands;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;690000.0;Action;75;7.4;18;5;2010
+604;Prince of Persia: The Forgotten Sands;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;620000.0;Action;75;7.4;18;5;2010
+966;Prince of Persia: The Forgotten Sands;Ubisoft;Quebec City;PSP;PlayStation 3;370000.0;Action;75;7.4;18;5;2010
+1345;Prince of Persia: The Forgotten Sands;Ubisoft;Quebec City;Wii;PlayStation 3;240000.0;Action;75;7.4;18;5;2010
+1721;Prince of Persia: The Forgotten Sands;Ubisoft;Ubisoft Montreal;DS;PlayStation 3;150000.0;Action;75;7.4;18;5;2010
+554;Iron Man;Sega;Secret Level;PS3;PlayStation 3;680000.0;Action;42;6.0;2;5;2008
+589;Iron Man;Sega;Artificial Mind and Movement;PSP;PlayStation 3;630000.0;Action;42;6.0;2;5;2008
+625;Iron Man;Sega;Secret Level;Wii;PlayStation 3;590000.0;Action;42;6.0;2;5;2008
+647;Iron Man;Sega;Secret Level;X360;PlayStation 3;570000.0;Action;42;6.0;2;5;2008
+677;Iron Man;Sega;Artificial Mind and Movement;PS2;PlayStation 3;540000.0;Action;42;6.0;2;5;2008
+714;Iron Man;Sega;Artificial Mind and Movement;DS;PlayStation 3;510000.0;Action;42;6.0;2;5;2008
+179;Iron Man;Sega;Artificial Mind & Movement;All;PlayStation 3;;Action-Adventure;42;6.0;2;5;2008
+554;Iron Man;Sega;Secret Level;PS3;PSP		;680000.0;Action;44;6.4;2;5;2008
+589;Iron Man;Sega;Artificial Mind and Movement;PSP;PSP		;630000.0;Action;44;6.4;2;5;2008
+625;Iron Man;Sega;Secret Level;Wii;PSP		;590000.0;Action;44;6.4;2;5;2008
+647;Iron Man;Sega;Secret Level;X360;PSP		;570000.0;Action;44;6.4;2;5;2008
+677;Iron Man;Sega;Artificial Mind and Movement;PS2;PSP		;540000.0;Action;44;6.4;2;5;2008
+714;Iron Man;Sega;Artificial Mind and Movement;DS;PSP		;510000.0;Action;44;6.4;2;5;2008
+179;Iron Man;Sega;Artificial Mind & Movement;All;PSP		;;Action-Adventure;44;6.4;2;5;2008
+163;Finding Nemo;THQ;Traveller's Tales;PS2;Xbox		;2090000.0;Action;63;7.4;9;5;2003
+566;Finding Nemo;THQ;Traveller's Tales;XB;Xbox		;660000.0;Action;63;7.4;9;5;2003
+323;One Piece: Pirate Warriors 2;Bandai;Omega Force;All;PlayStation 3;;Action-Adventure;71;7.8;3;9;2013
+572;Fist of the North Star: Ken's Rage;Tecmo Koei;Tecmo Koei Games;PS3;PlayStation 3;660000.0;Action;60;7.0;2;11;2010
+1714;Fist of the North Star: Ken's Rage;Tecmo Koei;Tecmo Koei Games;X360;PlayStation 3;160000.0;Action;60;7.0;2;11;2010
+573;Shrek: Hassle at the Castle;TDK Mediactive;TOSE;GBA;Game Boy Advance		;660000.0;Action;71;7.4;10;10;2002
+575;Transformers: The Game;Activision;Savage Entertainment;PSP;PSP		;650000.0;Action;47;5.4;19;6;2007
+581;Sengoku Basara: Samurai Heroes;Capcom;Capcom;PS3;PlayStation 3;640000.0;Action;61;8.1;12;10;2010
+1165;Sengoku Basara: Samurai Heroes;Capcom;Capcom;Wii;PlayStation 3;290000.0;Action;61;8.1;12;10;2010
+583;X2: Wolverine's Revenge;Activision;GenePool;PS2;PlayStation 2;640000.0;Action;58;7.4;14;4;2003
+1932;X2: Wolverine's Revenge;Activision;GenePool;GC;PlayStation 2;120000.0;Action;58;7.4;14;4;2003
+584;Dead Island: Riptide;Deep Silver;Techland;PS3;PlayStation 3;640000.0;Action;62;6.0;23;4;2013
+1946;Dead Island: Riptide;Deep Silver;Techland;PC;PlayStation 3;;Action;62;6.0;23;4;2013
+585;Onimusha: Dawn of Dreams;Capcom;Capcom;PS2;PlayStation 2;640000.0;Action;81;8.8;7;3;2006
+591;LEGO The Incredibles;Warner Bros. Interactive Entertainment;Traveller's Tales;NS;Switch;630000.0;Action;65;7.3;15;6;2018
+688;LEGO The Incredibles;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;Switch;530000.0;Action;65;7.3;15;6;2018
+1085;LEGO The Incredibles;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;Switch;320000.0;Action;65;7.3;15;6;2018
+599;Metal Gear Solid 2: Substance;Konami;Konami Computer Entertainment Japan;XB;Xbox		;620000.0;Action;87;8.4;4;11;2002
+600;Warriors Orochi 3;Tecmo Koei;Omega Force;PS3;PlayStation 3;620000.0;Action;70;7.9;20;3;2012
+763;Warriors Orochi 3;Tecmo Koei;Omega Force;All;PlayStation 3;;Action;70;7.9;20;3;2012
+12;Red Dead Redemption 2;Rockstar Games;Rockstar Studios;All;PlayStation 4;;Action-Adventure;97;8.6;26;10;2018
+48;Red Dead Redemption 2;Rockstar Games;Rockstar Games;PS4;PlayStation 4;13940000.0;Action-Adventure;97;8.6;26;10;2018
+109;Red Dead Redemption 2;Rockstar Games;Rockstar Games;XOne;PlayStation 4;5770000.0;Action-Adventure;97;8.6;26;10;2018
+12;Red Dead Redemption 2;Rockstar Games;Rockstar Studios;All;Xbox One;;Action-Adventure;97;8.1;26;10;2018
+48;Red Dead Redemption 2;Rockstar Games;Rockstar Games;PS4;Xbox One;13940000.0;Action-Adventure;97;8.1;26;10;2018
+109;Red Dead Redemption 2;Rockstar Games;Rockstar Games;XOne;Xbox One;5770000.0;Action-Adventure;97;8.1;26;10;2018
+53;Assassin's Creed III;Ubisoft;Ubisoft Montreal;All;PlayStation 3;;Action-Adventure;85;6.9;30;10;2012
+100;Assassin's Creed III;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;6500000.0;Action-Adventure;85;6.9;30;10;2012
+113;Assassin's Creed III;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;5310000.0;Action-Adventure;85;6.9;30;10;2012
+53;Assassin's Creed III;Ubisoft;Ubisoft Montreal;All;Xbox 360;;Action-Adventure;84;6.8;30;10;2012
+100;Assassin's Creed III;Ubisoft;Ubisoft Montreal;PS3;Xbox 360;6500000.0;Action-Adventure;84;6.8;30;10;2012
+113;Assassin's Creed III;Ubisoft;Ubisoft Montreal;X360;Xbox 360;5310000.0;Action-Adventure;84;6.8;30;10;2012
+58;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;All;PlayStation 3;;Action-Adventure;88;8.2;29;10;2013
+144;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;PS3;PlayStation 3;3940000.0;Action-Adventure;88;8.2;29;10;2013
+159;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;X360;PlayStation 3;3340000.0;Action-Adventure;88;8.2;29;10;2013
+398;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;WiiU;PlayStation 3;290000.0;Action-Adventure;88;8.2;29;10;2013
+58;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;All;Xbox 360;;Action-Adventure;86;8.0;29;10;2013
+144;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;PS3;Xbox 360;3940000.0;Action-Adventure;86;8.0;29;10;2013
+159;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;X360;Xbox 360;3340000.0;Action-Adventure;86;8.0;29;10;2013
+398;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;WiiU;Xbox 360;290000.0;Action-Adventure;86;8.0;29;10;2013
+58;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;All;Wii U;;Action-Adventure;86;7.7;29;10;2013
+144;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;PS3;Wii U;3940000.0;Action-Adventure;86;7.7;29;10;2013
+159;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;X360;Wii U;3340000.0;Action-Adventure;86;7.7;29;10;2013
+398;Assassin's Creed IV: Black Flag;Ubisoft;Ubisoft Montreal;WiiU;Wii U;290000.0;Action-Adventure;86;7.7;29;10;2013
+93;Mafia III;2K Games;Hangar 13;All;PlayStation 4;;Action-Adventure;68;5.3;7;10;2016
+169;Mafia III;2K Games;Hangar 13;PS4;PlayStation 4;2870000.0;Action-Adventure;68;5.3;7;10;2016
+251;Mafia III;2K Games;Hangar 13;XOne;PlayStation 4;1110000.0;Action-Adventure;68;5.3;7;10;2016
+292;Mafia III;2K Games;Hangar 13;PC;PlayStation 4;;Action-Adventure;68;5.3;7;10;2016
+93;Mafia III;2K Games;Hangar 13;All;Xbox One;;Action-Adventure;67;5.1;7;10;2016
+169;Mafia III;2K Games;Hangar 13;PS4;Xbox One;2870000.0;Action-Adventure;67;5.1;7;10;2016
+251;Mafia III;2K Games;Hangar 13;XOne;Xbox One;1110000.0;Action-Adventure;67;5.1;7;10;2016
+292;Mafia III;2K Games;Hangar 13;PC;Xbox One;;Action-Adventure;67;5.1;7;10;2016
+141;Far Cry Primal;Ubisoft;Ubisoft Montreal;All;PlayStation 4;;Action-Adventure;76;6.7;23;2;2016
+141;Far Cry Primal;Ubisoft;Ubisoft Montreal;All;Xbox One;;Action-Adventure;77;6.7;23;2;2016
+188;Kinect: Disneyland Adventures;Microsoft Studios;Frontier Developments;X360;Xbox 360;2410000.0;Action-Adventure;73;3.2;15;11;2011
+190;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;PS3;PlayStation 3;2400000.0;Action-Adventure;76;7.8;25;10;2013
+209;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;X360;PlayStation 3;1900000.0;Action-Adventure;76;7.8;25;10;2013
+386;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;WiiU;PlayStation 3;320000.0;Action-Adventure;76;7.8;25;10;2013
+190;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;PS3;Xbox 360;2400000.0;Action-Adventure;74;7.6;25;10;2013
+209;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;X360;Xbox 360;1900000.0;Action-Adventure;74;7.6;25;10;2013
+386;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;WiiU;Xbox 360;320000.0;Action-Adventure;74;7.6;25;10;2013
+190;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;PS3;Wii U;2400000.0;Action-Adventure;68;7.6;25;10;2013
+209;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;X360;Wii U;1900000.0;Action-Adventure;68;7.6;25;10;2013
+386;Batman: Arkham Origins;Warner Bros. Interactive Entertainment;Warner Bros. Interactive Entertainment;WiiU;Wii U;320000.0;Action-Adventure;68;7.6;25;10;2013
+195;No Man's Sky;Hello Games;Hello Games;PS4;PlayStation 4;2260000.0;Action-Adventure;71;4.8;9;8;2016
+609;LEGO Batman 2: DC Super Heroes;Warner Bros. Interactive Entertainment;Traveller's Tales;PC;Xbox 360;10000.0;Action-Adventure;79;6.9;19;6;2012
+1065;LEGO Batman 2: DC Super Heroes;Warner Bros. Interactive Entertainment;TT Fusion;iOS;Xbox 360;;Action-Adventure;79;6.9;19;6;2012
+1067;LEGO Batman 2: DC Super Heroes;Warner Bros. Interactive Entertainment;TT Fusion;And;Xbox 360;;Action-Adventure;79;6.9;19;6;2012
+609;LEGO Batman 2: DC Super Heroes;Warner Bros. Interactive Entertainment;Traveller's Tales;PC;PlayStation 3;10000.0;Action-Adventure;81;7.1;19;6;2012
+1065;LEGO Batman 2: DC Super Heroes;Warner Bros. Interactive Entertainment;TT Fusion;iOS;PlayStation 3;;Action-Adventure;81;7.1;19;6;2012
+1067;LEGO Batman 2: DC Super Heroes;Warner Bros. Interactive Entertainment;TT Fusion;And;PlayStation 3;;Action-Adventure;81;7.1;19;6;2012
+34;Watch Dogs;Ubisoft;Ubisoft;Series;Xbox One;;Action-Adventure;78;6.1;27;5;2014
+69;Watch Dogs;Ubisoft;Ubisoft Montreal;All;Xbox One;;Action-Adventure;78;6.1;27;5;2014
+136;Watch Dogs;Ubisoft;Ubisoft Montreal;PS4;Xbox One;4320000.0;Action-Adventure;78;6.1;27;5;2014
+211;Watch Dogs;Ubisoft;Ubisoft Montreal;PS3;Xbox One;1830000.0;Action-Adventure;78;6.1;27;5;2014
+218;Watch Dogs;Ubisoft;Ubisoft Montreal;XOne;Xbox One;1640000.0;Action-Adventure;78;6.1;27;5;2014
+242;Watch Dogs;Ubisoft;Ubisoft Montreal;X360;Xbox One;1290000.0;Action-Adventure;78;6.1;27;5;2014
+342;Watch Dogs;Ubisoft;Ubisoft Montreal;PC;Xbox One;490000.0;Action-Adventure;78;6.1;27;5;2014
+237;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;X360;Xbox 360;1320000.0;Action-Adventure;69;7.5;7;2;2014
+283;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PS3;Xbox 360;980000.0;Action-Adventure;69;7.5;7;2;2014
+305;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;3DS;Xbox 360;720000.0;Action-Adventure;69;7.5;7;2;2014
+307;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PS4;Xbox 360;710000.0;Action-Adventure;69;7.5;7;2;2014
+312;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;WiiU;Xbox 360;660000.0;Action-Adventure;69;7.5;7;2;2014
+314;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;XOne;Xbox 360;650000.0;Action-Adventure;69;7.5;7;2;2014
+380;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PC;Xbox 360;;Action-Adventure;69;7.5;7;2;2014
+388;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PSV;Xbox 360;310000.0;Action-Adventure;69;7.5;7;2;2014
+237;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;X360;PlayStation 3;1320000.0;Action-Adventure;80;6.9;7;2;2014
+283;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PS3;PlayStation 3;980000.0;Action-Adventure;80;6.9;7;2;2014
+305;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;3DS;PlayStation 3;720000.0;Action-Adventure;80;6.9;7;2;2014
+307;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PS4;PlayStation 3;710000.0;Action-Adventure;80;6.9;7;2;2014
+312;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;WiiU;PlayStation 3;660000.0;Action-Adventure;80;6.9;7;2;2014
+314;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;XOne;PlayStation 3;650000.0;Action-Adventure;80;6.9;7;2;2014
+380;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PC;PlayStation 3;;Action-Adventure;80;6.9;7;2;2014
+388;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PSV;PlayStation 3;310000.0;Action-Adventure;80;6.9;7;2;2014
+237;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;X360;Xbox One;1320000.0;Action-Adventure;69;6.8;7;2;2014
+283;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PS3;Xbox One;980000.0;Action-Adventure;69;6.8;7;2;2014
+305;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;3DS;Xbox One;720000.0;Action-Adventure;69;6.8;7;2;2014
+307;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PS4;Xbox One;710000.0;Action-Adventure;69;6.8;7;2;2014
+312;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;WiiU;Xbox One;660000.0;Action-Adventure;69;6.8;7;2;2014
+314;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;XOne;Xbox One;650000.0;Action-Adventure;69;6.8;7;2;2014
+380;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PC;Xbox One;;Action-Adventure;69;6.8;7;2;2014
+388;The LEGO Movie Videogame;Warner Bros. Interactive Entertainment;TT Fusion;PSV;Xbox One;310000.0;Action-Adventure;69;6.8;7;2;2014
+244;Metal Gear Solid V: Ground Zeroes;Konami Digital Entertainment;Kojima Productions;PS4;PlayStation 4;1200000.0;Action-Adventure;75;6.4;18;3;2014
+271;Metal Gear Solid V: Ground Zeroes;Konami;Kojima Productions;All;PlayStation 4;;Action-Adventure;75;6.4;18;3;2014
+321;Metal Gear Solid V: Ground Zeroes;Konami Digital Entertainment;Kojima Productions;PS3;PlayStation 4;590000.0;Action-Adventure;75;6.4;18;3;2014
+409;Metal Gear Solid V: Ground Zeroes;Konami Digital Entertainment;Kojima Productions;XOne;PlayStation 4;270000.0;Action-Adventure;75;6.4;18;3;2014
+498;Metal Gear Solid V: Ground Zeroes;Konami Digital Entertainment;Kojima Productions;X360;PlayStation 4;140000.0;Action-Adventure;75;6.4;18;3;2014
+245;Shadow of the Colossus;Sony Interactive Entertainment;Bluepoint Games;PS4;PlayStation 4;1200000.0;Action-Adventure;91;7.8;6;2;2018
+191;Sleeping Dogs;Square Enix;United Front Games;PC;PlayStation 3;;Action-Adventure;83;7.7;14;8;2012
+256;Sleeping Dogs;Square Enix;United Front Games;PS3;PlayStation 3;1040000.0;Action-Adventure;83;7.7;14;8;2012
+288;Sleeping Dogs;Square Enix;United Front Games;X360;PlayStation 3;870000.0;Action-Adventure;83;7.7;14;8;2012
+204;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;All;Xbox 360;;Action-Adventure;82;7.6;20;8;2013
+281;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;X360;Xbox 360;1000000.0;Action-Adventure;82;7.6;20;8;2013
+282;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;PS3;Xbox 360;980000.0;Action-Adventure;82;7.6;20;8;2013
+445;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;PC;Xbox 360;210000.0;Action-Adventure;82;7.6;20;8;2013
+501;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Shanghai;WiiU;Xbox 360;130000.0;Action-Adventure;82;7.6;20;8;2013
+204;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;All;PlayStation 3;;Action-Adventure;84;7.8;20;8;2013
+281;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;X360;PlayStation 3;1000000.0;Action-Adventure;84;7.8;20;8;2013
+282;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;PS3;PlayStation 3;980000.0;Action-Adventure;84;7.8;20;8;2013
+445;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;PC;PlayStation 3;210000.0;Action-Adventure;84;7.8;20;8;2013
+501;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Shanghai;WiiU;PlayStation 3;130000.0;Action-Adventure;84;7.8;20;8;2013
+204;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;All;Wii U;;Action-Adventure;75;7.8;20;8;2013
+281;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;X360;Wii U;1000000.0;Action-Adventure;75;7.8;20;8;2013
+282;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;PS3;Wii U;980000.0;Action-Adventure;75;7.8;20;8;2013
+445;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Toronto;PC;Wii U;210000.0;Action-Adventure;75;7.8;20;8;2013
+501;Tom Clancy's Splinter Cell: Blacklist;Ubisoft;Ubisoft Shanghai;WiiU;Wii U;130000.0;Action-Adventure;75;7.8;20;8;2013
+231;Darksiders II;THQ;Vigil Games;All;PlayStation 3;;Action-Adventure;84;7.2;14;8;2012
+293;Darksiders II;THQ;Vigil Games;PS3;PlayStation 3;850000.0;Action-Adventure;84;7.2;14;8;2012
+299;Darksiders II;THQ;Vigil Games;X360;PlayStation 3;790000.0;Action-Adventure;84;7.2;14;8;2012
+327;Darksiders II;THQ;Vigil Games;PC;PlayStation 3;;Action-Adventure;84;7.2;14;8;2012
+231;Darksiders II;THQ;Vigil Games;All;Xbox 360;;Action-Adventure;83;8.2;14;8;2012
+293;Darksiders II;THQ;Vigil Games;PS3;Xbox 360;850000.0;Action-Adventure;83;8.2;14;8;2012
+299;Darksiders II;THQ;Vigil Games;X360;Xbox 360;790000.0;Action-Adventure;83;8.2;14;8;2012
+327;Darksiders II;THQ;Vigil Games;PC;Xbox 360;;Action-Adventure;83;8.2;14;8;2012
+166;Disney Infinity;Disney Interactive Studios;Heavy Iron Studios / Avalanche Software;All;Wii U;;Action-Adventure;71;7.5;18;8;2013
+311;Disney Infinity;Disney Interactive Studios;Avalanche Software;WiiU;Wii U;670000.0;Action-Adventure;71;7.5;18;8;2013
+373;Disney Infinity;Disney Interactive Studios;Altron;3DS;Wii U;350000.0;Action-Adventure;71;7.5;18;8;2013
+320;Gravity Rush;Sony Computer Entertainment;SCE Japan Studio;PSV;PlayStation Vita;600000.0;Action-Adventure;83;8.6;12;6;2012
+326;Metroid: Samus Returns;Nintendo;Mercury Steam;3DS;3DS;560000.0;Action-Adventure;85;8.7;15;9;2017
+328;Just Cause 4;Square Enix;Avalanche Studios;PS4;PlayStation 4;560000.0;Action-Adventure;65;4.8;4;12;2018
+403;Just Cause 4;Square Enix;Avalanche Studios;XOne;PlayStation 4;290000.0;Action-Adventure;65;4.8;4;12;2018
+1053;Just Cause 4;Square Enix;Avalanche Studios;PC;PlayStation 4;;Action-Adventure;65;4.8;4;12;2018
+328;Just Cause 4;Square Enix;Avalanche Studios;PS4;Xbox One;560000.0;Action-Adventure;70;5.7;4;12;2018
+403;Just Cause 4;Square Enix;Avalanche Studios;XOne;Xbox One;290000.0;Action-Adventure;70;5.7;4;12;2018
+1053;Just Cause 4;Square Enix;Avalanche Studios;PC;Xbox One;;Action-Adventure;70;5.7;4;12;2018
+343;Batman: Arkham Origins Blackgate;Warner Bros. Interactive Entertainment;Armature Studio;PSV;PlayStation Vita;480000.0;Action-Adventure;61;6.8;25;10;2013
+411;Batman: Arkham Origins Blackgate;Warner Bros. Interactive Entertainment;Armature Studio;3DS;PlayStation Vita;270000.0;Action-Adventure;61;6.8;25;10;2013
+343;Batman: Arkham Origins Blackgate;Warner Bros. Interactive Entertainment;Armature Studio;PSV;3DS;480000.0;Action-Adventure;68;7.0;25;10;2013
+411;Batman: Arkham Origins Blackgate;Warner Bros. Interactive Entertainment;Armature Studio;3DS;3DS;270000.0;Action-Adventure;68;7.0;25;10;2013
+347;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;PlayStation 4;460000.0;Action-Adventure;74;6.4;16;10;2018
+353;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;NS;PlayStation 4;440000.0;Action-Adventure;74;6.4;16;10;2018
+396;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;PlayStation 4;300000.0;Action-Adventure;74;6.4;16;10;2018
+347;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;Switch;460000.0;Action-Adventure;75;7.6;16;10;2018
+353;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;NS;Switch;440000.0;Action-Adventure;75;7.6;16;10;2018
+396;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;Switch;300000.0;Action-Adventure;75;7.6;16;10;2018
+347;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;PS4;Xbox One;460000.0;Action-Adventure;72;6.2;16;10;2018
+353;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;NS;Xbox One;440000.0;Action-Adventure;72;6.2;16;10;2018
+396;LEGO DC Super-Villains;Warner Bros. Interactive Entertainment;Traveller's Tales;XOne;Xbox One;300000.0;Action-Adventure;72;6.2;16;10;2018
+365;Metal Gear Solid: Snake Eater 3D;Konami Digital Entertainment;Konami Computer Entertainment Japan;3DS;3DS;390000.0;Action-Adventure;78;7.9;21;2;2012
+372;Assassin's Creed III;Ubisoft;Ubisoft Montreal;WiiU;Wii U;360000.0;Action-Adventure;85;7.3;18;11;2012
+375;Gravity Rush 2;Sony Interactive Entertainment;SIE Japan Studio;PS4;PlayStation 4;350000.0;Action-Adventure;80;8.1;20;1;2017
+332;Murdered: Soul Suspect;Square Enix;Airtight Games;PC;PlayStation 4;;Action-Adventure;59;6.9;3;6;2014
+382;Murdered: Soul Suspect;Square Enix;Airtight Games;PS4;PlayStation 4;330000.0;Action-Adventure;59;6.9;3;6;2014
+460;Murdered: Soul Suspect;Square Enix;Airtight Games;XOne;PlayStation 4;170000.0;Action-Adventure;59;6.9;3;6;2014
+495;Murdered: Soul Suspect;Square Enix;Airtight Games;PS3;PlayStation 4;140000.0;Action-Adventure;59;6.9;3;6;2014
+522;Murdered: Soul Suspect;Square Enix;Airtight Games;X360;PlayStation 4;100000.0;Action-Adventure;59;6.9;3;6;2014
+332;Murdered: Soul Suspect;Square Enix;Airtight Games;PC;Xbox One;;Action-Adventure;51;7.1;3;6;2014
+382;Murdered: Soul Suspect;Square Enix;Airtight Games;PS4;Xbox One;330000.0;Action-Adventure;51;7.1;3;6;2014
+460;Murdered: Soul Suspect;Square Enix;Airtight Games;XOne;Xbox One;170000.0;Action-Adventure;51;7.1;3;6;2014
+495;Murdered: Soul Suspect;Square Enix;Airtight Games;PS3;Xbox One;140000.0;Action-Adventure;51;7.1;3;6;2014
+522;Murdered: Soul Suspect;Square Enix;Airtight Games;X360;Xbox One;100000.0;Action-Adventure;51;7.1;3;6;2014
+410;Family Guy: Back to the Multiverse;Activision;Heavy Iron Studios;PS3;PlayStation 3;270000.0;Action-Adventure;40;6.3;20;11;2012
+429;Family Guy: Back to the Multiverse;Activision;Heavy Iron Studios;X360;PlayStation 3;250000.0;Action-Adventure;40;6.3;20;11;2012
+644;Family Guy: Back to the Multiverse;Activision;Heavy Iron Studios;PC;PlayStation 3;;Action-Adventure;40;6.3;20;11;2012
+410;Family Guy: Back to the Multiverse;Activision;Heavy Iron Studios;PS3;Xbox 360;270000.0;Action-Adventure;39;4.9;20;11;2012
+429;Family Guy: Back to the Multiverse;Activision;Heavy Iron Studios;X360;Xbox 360;250000.0;Action-Adventure;39;4.9;20;11;2012
+644;Family Guy: Back to the Multiverse;Activision;Heavy Iron Studios;PC;Xbox 360;;Action-Adventure;39;4.9;20;11;2012
+412;Robinson: The Journey;Sony Interactive Entertainment;Crytek;PS4;PlayStation 4;270000.0;Action-Adventure;64;6.6;8;11;2016
+420;ReCore;Microsoft Studios;Armature Studio;XOne;Xbox One;260000.0;Action-Adventure;63;6.7;13;9;2016
+659;ReCore;Microsoft Studios;Armature Studio;PC;Xbox One;;Action-Adventure;63;6.7;13;9;2016
+433;Darksiders II: Deathinitive Edition;Nordic Games;Gunfire Games;PS4;PlayStation 4;240000.0;Action-Adventure;72;7.4;30;10;2015
+532;Darksiders II: Deathinitive Edition;Nordic Games;Gunfire Games;XOne;PlayStation 4;80000.0;Action-Adventure;72;7.4;30;10;2015
+433;Darksiders II: Deathinitive Edition;Nordic Games;Gunfire Games;PS4;Xbox One;240000.0;Action-Adventure;75;7.5;30;10;2015
+532;Darksiders II: Deathinitive Edition;Nordic Games;Gunfire Games;XOne;Xbox One;80000.0;Action-Adventure;75;7.5;30;10;2015
+437;No Man's Sky;505 Games;Hello Games;XOne;Xbox One;230000.0;Action-Adventure;77;7.5;24;7;2018
+248;Conan Exiles;Maximum Games;Funcom Oslo A/S;PC;PlayStation 4;;Action-Adventure;68;5.3;8;5;2018
+446;Conan Exiles;Maximum Games;Funcom Oslo A/S;PS4;PlayStation 4;210000.0;Action-Adventure;68;5.3;8;5;2018
+544;Conan Exiles;Maximum Games;Funcom Oslo A/S;XOne;PlayStation 4;60000.0;Action-Adventure;68;5.3;8;5;2018
+248;Conan Exiles;Maximum Games;Funcom Oslo A/S;PC;Xbox One;;Action-Adventure;64;5.5;8;5;2018
+446;Conan Exiles;Maximum Games;Funcom Oslo A/S;PS4;Xbox One;210000.0;Action-Adventure;64;5.5;8;5;2018
+544;Conan Exiles;Maximum Games;Funcom Oslo A/S;XOne;Xbox One;60000.0;Action-Adventure;64;5.5;8;5;2018
+824;Sleeping Dogs: Definitive Edition;Square Enix;United Front Games;PS4;Xbox One;440000.0;Action;75;8.1;14;10;2014
+453;Sleeping Dogs: Definitive Edition;Square Enix;United Front Games;XOne;Xbox One;200000.0;Action-Adventure;75;8.1;14;10;2014
+461;Dead Rising 4: Frank's Big Package;Capcom;Capcom;PS4;PlayStation 4;160000.0;Action-Adventure;72;5.8;5;12;2017
+475;Gravity Rush Remastered;Sony Computer Entertainment;Bluepoint Games;PS4;PlayStation 4;160000.0;Action-Adventure;80;8.1;2;2;2016
+592;Gravity Rush Remastered;Sony Computer Entertainment Europe;Bluepoint Games;PS4;PlayStation 4;20000.0;Action-Adventure;80;8.1;2;2;2016
+475;Gravity Rush Remastered;Sony Computer Entertainment;Bluepoint Games;PS4;PlayStation 4;160000.0;Action-Adventure;80;8.1;2;2;2016
+592;Gravity Rush Remastered;Sony Computer Entertainment Europe;Bluepoint Games;PS4;PlayStation 4;20000.0;Action-Adventure;80;8.1;2;2;2016
+477;Assassin's Creed Rogue Remastered;Ubisoft;Ubisoft;PS4;PlayStation 4;150000.0;Action-Adventure;71;6.6;20;3;2018
+570;Assassin's Creed Rogue Remastered;Ubisoft;Ubisoft;XOne;PlayStation 4;40000.0;Action-Adventure;71;6.6;20;3;2018
+477;Assassin's Creed Rogue Remastered;Ubisoft;Ubisoft;PS4;Xbox One;150000.0;Action-Adventure;71;7.3;20;3;2018
+570;Assassin's Creed Rogue Remastered;Ubisoft;Ubisoft;XOne;Xbox One;40000.0;Action-Adventure;71;7.3;20;3;2018
+1765;We Happy Few;Gearbox Software;Compulsion Games;PC;PlayStation 4;;Action;67;5.4;10;8;2018
+496;We Happy Few;Gearbox Software;Compulsion Games;PS4;PlayStation 4;140000.0;Action-Adventure;67;5.4;10;8;2018
+526;We Happy Few;Gearbox Software;Compulsion Games;XOne;PlayStation 4;90000.0;Action-Adventure;67;5.4;10;8;2018
+1765;We Happy Few;Gearbox Software;Compulsion Games;PC;Xbox One;;Action;64;5.7;10;8;2018
+496;We Happy Few;Gearbox Software;Compulsion Games;PS4;Xbox One;140000.0;Action-Adventure;64;5.7;10;8;2018
+526;We Happy Few;Gearbox Software;Compulsion Games;XOne;Xbox One;90000.0;Action-Adventure;64;5.7;10;8;2018
+506;LEGO Batman 2: DC Super Heroes;Warner Bros. Interactive Entertainment;Traveller's Tales;WiiU;Wii U;120000.0;Action-Adventure;77;7.5;21;5;2013
+524;Resident Evil 4;Capcom;Capcom;PS4;PlayStation 4;100000.0;Action-Adventure;82;8.5;30;8;2016
+556;Resident Evil 4;Capcom;Capcom;XOne;PlayStation 4;50000.0;Action-Adventure;82;8.5;30;8;2016
+524;Resident Evil 4;Capcom;Capcom;PS4;Xbox One;100000.0;Action-Adventure;76;8.2;30;8;2016
+556;Resident Evil 4;Capcom;Capcom;XOne;Xbox One;50000.0;Action-Adventure;76;8.2;30;8;2016
+536;ARK: Survival Evolved;Studio Wildcard;Studio Wildcard;NS;Switch;80000.0;Action-Adventure;29;2.5;30;11;2018
+537;Disneyland Adventures;Microsoft Studios;Asobo Studio;XOne;Xbox One;70000.0;Action-Adventure;67;5.8;31;10;2017
+562;Earthfall;Gearbox Software;Holospark;PS4;PlayStation 4;40000.0;Action-Adventure;54;5.6;13;7;2018
+574;Earthfall;Gearbox Software;Holospark;XOne;PlayStation 4;30000.0;Action-Adventure;54;5.6;13;7;2018
+931;Earthfall;Gearbox Software;Holospark;PC;PlayStation 4;;Action-Adventure;54;5.6;13;7;2018
+562;Earthfall;Gearbox Software;Holospark;PS4;Xbox One;40000.0;Action-Adventure;56;5.5;13;7;2018
+574;Earthfall;Gearbox Software;Holospark;XOne;Xbox One;30000.0;Action-Adventure;56;5.5;13;7;2018
+931;Earthfall;Gearbox Software;Holospark;PC;Xbox One;;Action-Adventure;56;5.5;13;7;2018
+576;Override: Mech City Brawl;Modus Games;The Balance Inc;PS4;PlayStation 4;30000.0;Action-Adventure;59;7.0;4;12;2018
+590;Override: Mech City Brawl;Modus Games;The Balance Inc;XOne;PlayStation 4;20000.0;Action-Adventure;59;7.0;4;12;2018
+1165;Override: Mech City Brawl;Modus Games;The Balance Inc;PC;PlayStation 4;;Action-Adventure;59;7.0;4;12;2018
+576;Override: Mech City Brawl;Modus Games;The Balance Inc;PS4;Xbox One;30000.0;Action-Adventure;64;6.6;4;12;2018
+590;Override: Mech City Brawl;Modus Games;The Balance Inc;XOne;Xbox One;20000.0;Action-Adventure;64;6.6;4;12;2018
+1165;Override: Mech City Brawl;Modus Games;The Balance Inc;PC;Xbox One;;Action-Adventure;64;6.6;4;12;2018
+577;Beast Quest;Maximum Games;Torus Games;PS4;PlayStation 4;30000.0;Action-Adventure;33;4.6;13;3;2018
+582;Beast Quest;Maximum Games;Torus Games;XOne;PlayStation 4;30000.0;Action-Adventure;33;4.6;13;3;2018
+583;Onimusha: Warlords;Capcom;Capcom;PS4;PlayStation 4;30000.0;Action-Adventure;73;6.6;15;1;2019
+606;Onimusha: Warlords;Capcom;Capcom;NS;PlayStation 4;10000.0;Action-Adventure;73;6.6;15;1;2019
+1148;Onimusha: Warlords;Capcom;Capcom;PC;PlayStation 4;;Action-Adventure;73;6.6;15;1;2019
+1149;Onimusha: Warlords;Capcom;Capcom;XOne;PlayStation 4;;Action-Adventure;73;6.6;15;1;2019
+1480;Agony;PlayWay;Madmind Studio;PC;PlayStation 4;;Action;37;4.6;29;5;2018
+390;Agony;PlayWay;Madmind Studio;All;PlayStation 4;;Action-Adventure;37;4.6;29;5;2018
+391;Agony;PlayWay;Madmind Studio;Series;PlayStation 4;;Action-Adventure;37;4.6;29;5;2018
+585;Agony;Maximum Games;Madmind Studio;PS4;PlayStation 4;30000.0;Action-Adventure;37;4.6;29;5;2018
+589;Agony;Maximum Games;Madmind Studio;XOne;PlayStation 4;20000.0;Action-Adventure;37;4.6;29;5;2018
+1480;Agony;PlayWay;Madmind Studio;PC;Xbox One;;Action;34;4.3;29;5;2018
+390;Agony;PlayWay;Madmind Studio;All;Xbox One;;Action-Adventure;34;4.3;29;5;2018
+391;Agony;PlayWay;Madmind Studio;Series;Xbox One;;Action-Adventure;34;4.3;29;5;2018
+585;Agony;Maximum Games;Madmind Studio;PS4;Xbox One;30000.0;Action-Adventure;34;4.3;29;5;2018
+589;Agony;Maximum Games;Madmind Studio;XOne;Xbox One;20000.0;Action-Adventure;34;4.3;29;5;2018
